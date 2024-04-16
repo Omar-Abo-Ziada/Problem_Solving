@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\refint\B. Even Numbers.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\B. Even Numbers\obj\Debug\net8.0\ref\B. Even Numbers.dll

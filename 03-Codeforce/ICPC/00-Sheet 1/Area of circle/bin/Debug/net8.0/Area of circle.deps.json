@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Area of circle/1.0.0": {
+        "runtime": {
+          "Area of circle.dll": {}
+        }
+      },
+      "F Calculator/1.0.0": {
+        "runtime": {
+          "F Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Area of circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "F Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\bin\Debug\net8.0\L. GCD.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\bin\Debug\net8.0\L. GCD.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\bin\Debug\net8.0\L. GCD.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\bin\Debug\net8.0\L. GCD.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\bin\Debug\net8.0\L. GCD.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\L. GCD.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\L. GCD.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\L. GCD.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\L. GCD.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\L. GCD.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\refint\L. GCD.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\L. GCD.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\L. GCD.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\02- Sheet 2\L. GCD\obj\Debug\net8.0\ref\L. GCD.dll

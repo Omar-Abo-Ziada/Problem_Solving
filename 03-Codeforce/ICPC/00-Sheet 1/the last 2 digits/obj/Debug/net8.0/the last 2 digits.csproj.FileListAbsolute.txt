@@ -1,0 +1,15 @@
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\bin\Debug\net8.0\the last 2 digits.exe
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\bin\Debug\net8.0\the last 2 digits.deps.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\bin\Debug\net8.0\the last 2 digits.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\bin\Debug\net8.0\the last 2 digits.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\bin\Debug\net8.0\the last 2 digits.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.sourcelink.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\refint\the last 2 digits.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\the last 2 digits.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\the last 2 digits\obj\Debug\net8.0\ref\the last 2 digits.dll

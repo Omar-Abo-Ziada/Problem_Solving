@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\bin\Debug\net8.0\G. Factorial.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\bin\Debug\net8.0\G. Factorial.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\bin\Debug\net8.0\G. Factorial.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\bin\Debug\net8.0\G. Factorial.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\bin\Debug\net8.0\G. Factorial.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\G. Factorial.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\G. Factorial.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\G. Factorial.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\G. Factorial.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\G. Factorial.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\refint\G. Factorial.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\G. Factorial.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\G. Factorial.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\G. Factorial\obj\Debug\net8.0\ref\G. Factorial.dll

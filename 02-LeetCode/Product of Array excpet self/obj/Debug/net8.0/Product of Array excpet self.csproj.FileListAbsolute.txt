@@ -1,0 +1,29 @@
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.exe
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.deps.json
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.dll
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.pdb
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.dll
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\refint\Product of Array excpet self.dll
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.pdb
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Day 4\Product of Array excpet self\obj\Debug\net8.0\ref\Product of Array excpet self.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.exe
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.deps.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.sourcelink.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\refint\Product of Array excpet self.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\ref\Product of Array excpet self.dll

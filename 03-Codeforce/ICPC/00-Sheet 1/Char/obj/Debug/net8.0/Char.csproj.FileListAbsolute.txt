@@ -1,0 +1,29 @@
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\bin\Debug\net8.0\Char.exe
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\bin\Debug\net8.0\Char.deps.json
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\bin\Debug\net8.0\Char.runtimeconfig.json
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\bin\Debug\net8.0\Char.dll
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\bin\Debug\net8.0\Char.pdb
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\Char.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\Char.AssemblyInfoInputs.cache
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\Char.AssemblyInfo.cs
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\Char.csproj.CoreCompileInputs.cache
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\Char.dll
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\refint\Char.dll
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\Char.pdb
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\Char.genruntimeconfig.cache
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Char\obj\Debug\net8.0\ref\Char.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\bin\Debug\net8.0\Char.exe
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\bin\Debug\net8.0\Char.deps.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\bin\Debug\net8.0\Char.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\bin\Debug\net8.0\Char.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\bin\Debug\net8.0\Char.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.sourcelink.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\refint\Char.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\Char.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Char\obj\Debug\net8.0\ref\Char.dll

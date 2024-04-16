@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\bin\Debug\net8.0\H. One Prime.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\bin\Debug\net8.0\H. One Prime.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\bin\Debug\net8.0\H. One Prime.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\bin\Debug\net8.0\H. One Prime.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\bin\Debug\net8.0\H. One Prime.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\H. One Prime.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\H. One Prime.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\H. One Prime.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\H. One Prime.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\H. One Prime.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\refint\H. One Prime.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\H. One Prime.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\H. One Prime.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\H. One Prime\obj\Debug\net8.0\ref\H. One Prime.dll

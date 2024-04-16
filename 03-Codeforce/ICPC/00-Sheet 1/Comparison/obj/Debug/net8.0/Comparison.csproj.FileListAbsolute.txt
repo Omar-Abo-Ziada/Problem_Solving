@@ -1,0 +1,15 @@
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\bin\Debug\net8.0\Comparison.exe
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\bin\Debug\net8.0\Comparison.deps.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\bin\Debug\net8.0\Comparison.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\bin\Debug\net8.0\Comparison.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\bin\Debug\net8.0\Comparison.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.sourcelink.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\refint\Comparison.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\Comparison.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Comparison\obj\Debug\net8.0\ref\Comparison.dll

@@ -1,0 +1,14 @@
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\bin\Debug\net8.0\Selection Sort.exe
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\bin\Debug\net8.0\Selection Sort.deps.json
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\bin\Debug\net8.0\Selection Sort.runtimeconfig.json
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\bin\Debug\net8.0\Selection Sort.dll
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\bin\Debug\net8.0\Selection Sort.pdb
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfoInputs.cache
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfo.cs
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\Selection Sort.csproj.CoreCompileInputs.cache
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\Selection Sort.dll
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\refint\Selection Sort.dll
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\Selection Sort.pdb
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\Selection Sort.genruntimeconfig.cache
+O:\Software_Courses\Local Problem Solving\patch 7\patch 7\Selection Sort\obj\Debug\net8.0\ref\Selection Sort.dll

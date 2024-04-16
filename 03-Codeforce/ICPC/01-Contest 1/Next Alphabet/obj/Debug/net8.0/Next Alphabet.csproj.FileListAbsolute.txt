@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\bin\Debug\net8.0\Next Alphabet.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\bin\Debug\net8.0\Next Alphabet.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\bin\Debug\net8.0\Next Alphabet.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\bin\Debug\net8.0\Next Alphabet.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\bin\Debug\net8.0\Next Alphabet.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\Next Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\Next Alphabet.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\Next Alphabet.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\Next Alphabet.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\Next Alphabet.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\refint\Next Alphabet.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\Next Alphabet.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\Next Alphabet.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\Next Alphabet\obj\Debug\net8.0\ref\Next Alphabet.dll

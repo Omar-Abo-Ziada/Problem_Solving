@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "longest distance between two equal cells/1.0.0": {
+        "runtime": {
+          "longest distance between two equal cells.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "longest distance between two equal cells/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

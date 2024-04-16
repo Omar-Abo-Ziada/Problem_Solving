@@ -1,0 +1,14 @@
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\bin\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.exe
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\bin\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.deps.json
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\bin\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\bin\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.dll
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\bin\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.pdb
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.dll
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\refint\the occurrence of 1 from 1 to 99,999,999.dll
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.pdb
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\the occurrence of 1 from 1 to 99,999,999.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Day3\labib2\the occurrence of 1 from 1 to 99,999,999\obj\Debug\net8.0\ref\the occurrence of 1 from 1 to 99,999,999.dll

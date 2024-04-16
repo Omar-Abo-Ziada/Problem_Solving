@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\bin\Debug\net8.0\Data Type Guessing.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\bin\Debug\net8.0\Data Type Guessing.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\bin\Debug\net8.0\Data Type Guessing.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\bin\Debug\net8.0\Data Type Guessing.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\bin\Debug\net8.0\Data Type Guessing.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\Data Type Guessing.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\Data Type Guessing.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\Data Type Guessing.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\Data Type Guessing.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\Data Type Guessing.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\refint\Data Type Guessing.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\Data Type Guessing.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\Data Type Guessing.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Data Type Guessing\obj\Debug\net8.0\ref\Data Type Guessing.dll

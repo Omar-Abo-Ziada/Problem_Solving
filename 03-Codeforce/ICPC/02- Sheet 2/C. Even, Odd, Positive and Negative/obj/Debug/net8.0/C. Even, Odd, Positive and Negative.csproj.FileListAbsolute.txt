@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\refint\C. Even, Odd, Positive and Negative.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\ref\C. Even, Odd, Positive and Negative.dll

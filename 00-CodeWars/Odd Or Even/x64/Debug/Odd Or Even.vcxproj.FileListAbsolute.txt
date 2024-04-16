@@ -1,0 +1,2 @@
+O:\Software_Courses\ProblemSolving\Day1\Odd Or Even\x64\Debug\Odd Or Even.exe
+O:\Software_Courses\00-My Local Problem Solving\CodeWars\Odd Or Even\x64\Debug\Odd Or Even.exe

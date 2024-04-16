@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\refint\F. Multiplication table.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\Sheet 2\F. Multiplication table\obj\Debug\net8.0\ref\F. Multiplication table.dll

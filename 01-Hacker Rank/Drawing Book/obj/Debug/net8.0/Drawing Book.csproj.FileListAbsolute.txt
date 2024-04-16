@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\bin\Debug\net8.0\Drawing Book.exe
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\bin\Debug\net8.0\Drawing Book.deps.json
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\bin\Debug\net8.0\Drawing Book.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\bin\Debug\net8.0\Drawing Book.dll
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\bin\Debug\net8.0\Drawing Book.pdb
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\Drawing Book.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\Drawing Book.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\Drawing Book.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\Drawing Book.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\Drawing Book.dll
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\refint\Drawing Book.dll
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\Drawing Book.pdb
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\Drawing Book.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\Hacker Rank\Drawing Book\obj\Debug\net8.0\ref\Drawing Book.dll

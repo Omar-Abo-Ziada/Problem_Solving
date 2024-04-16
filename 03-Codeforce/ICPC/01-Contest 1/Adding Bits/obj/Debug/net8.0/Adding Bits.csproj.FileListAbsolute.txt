@@ -1,0 +1,14 @@
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\bin\Debug\net8.0\Adding Bits.exe
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\bin\Debug\net8.0\Adding Bits.deps.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\bin\Debug\net8.0\Adding Bits.runtimeconfig.json
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\bin\Debug\net8.0\Adding Bits.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\bin\Debug\net8.0\Adding Bits.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\Adding Bits.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\Adding Bits.AssemblyInfoInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\Adding Bits.AssemblyInfo.cs
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\Adding Bits.csproj.CoreCompileInputs.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\Adding Bits.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\refint\Adding Bits.dll
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\Adding Bits.pdb
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\Adding Bits.genruntimeconfig.cache
+O:\Software_Courses\00-My Local Problem Solving\03-Codeforce\ICPC\01-Contest 1\Adding Bits\obj\Debug\net8.0\ref\Adding Bits.dll

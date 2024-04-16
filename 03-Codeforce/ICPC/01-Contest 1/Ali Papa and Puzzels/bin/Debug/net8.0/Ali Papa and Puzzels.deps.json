@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ali Papa and Puzzels/1.0.0": {
+        "runtime": {
+          "Ali Papa and Puzzels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ali Papa and Puzzels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

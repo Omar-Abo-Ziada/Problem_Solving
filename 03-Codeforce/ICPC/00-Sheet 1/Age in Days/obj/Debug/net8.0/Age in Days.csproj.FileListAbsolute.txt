@@ -1,0 +1,15 @@
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\bin\Debug\net8.0\Age in Days.exe
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\bin\Debug\net8.0\Age in Days.deps.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\bin\Debug\net8.0\Age in Days.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\bin\Debug\net8.0\Age in Days.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\bin\Debug\net8.0\Age in Days.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.sourcelink.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\refint\Age in Days.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\Age in Days.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Age in Days\obj\Debug\net8.0\ref\Age in Days.dll

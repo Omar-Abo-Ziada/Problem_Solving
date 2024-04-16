@@ -1,0 +1,15 @@
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\bin\Debug\net8.0\Difference.exe
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\bin\Debug\net8.0\Difference.deps.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\bin\Debug\net8.0\Difference.runtimeconfig.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\bin\Debug\net8.0\Difference.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\bin\Debug\net8.0\Difference.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.AssemblyInfoInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.AssemblyInfo.cs
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.csproj.CoreCompileInputs.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.sourcelink.json
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\refint\Difference.dll
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.pdb
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\Difference.genruntimeconfig.cache
+O:\Software_Courses\ProblemSolving\Problem-Solving\ICPC\Sheet1\Sheet 1\Difference\obj\Debug\net8.0\ref\Difference.dll
