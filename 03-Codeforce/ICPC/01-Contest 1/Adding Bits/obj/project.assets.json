@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\Software_Courses\\00-My Local Problem Solving\\03-Codeforce\\ICPC\\01-Contest 1\\Adding Bits\\Adding Bits.csproj",
+      "projectUniqueName": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\01-Contest 1\\Adding Bits\\Adding Bits.csproj",
       "projectName": "Adding Bits",
-      "projectPath": "O:\\Software_Courses\\00-My Local Problem Solving\\03-Codeforce\\ICPC\\01-Contest 1\\Adding Bits\\Adding Bits.csproj",
+      "projectPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\01-Contest 1\\Adding Bits\\Adding Bits.csproj",
       "packagesPath": "C:\\Users\\oahme\\.nuget\\packages\\",
-      "outputPath": "O:\\Software_Courses\\00-My Local Problem Solving\\03-Codeforce\\ICPC\\01-Contest 1\\Adding Bits\\obj\\",
+      "outputPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\01-Contest 1\\Adding Bits\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

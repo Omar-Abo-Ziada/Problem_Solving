@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\refint\N. Numbers Histogram.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\N. Numbers Histogram\obj\Debug\net8.0\ref\N. Numbers Histogram.dll

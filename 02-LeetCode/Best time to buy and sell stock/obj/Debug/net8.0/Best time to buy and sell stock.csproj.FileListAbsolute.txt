@@ -26,3 +26,18 @@ O:\Software_Courses\00-My Local Problem Solving\LeetCode\Best time to buy and se
 O:\Software_Courses\00-My Local Problem Solving\LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.pdb
 O:\Software_Courses\00-My Local Problem Solving\LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.genruntimeconfig.cache
 O:\Software_Courses\00-My Local Problem Solving\LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\ref\Best time to buy and sell stock.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\bin\Debug\net8.0\Best time to buy and sell stock.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\bin\Debug\net8.0\Best time to buy and sell stock.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\bin\Debug\net8.0\Best time to buy and sell stock.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\bin\Debug\net8.0\Best time to buy and sell stock.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\bin\Debug\net8.0\Best time to buy and sell stock.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\refint\Best time to buy and sell stock.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\Best time to buy and sell stock.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Best time to buy and sell stock\obj\Debug\net8.0\ref\Best time to buy and sell stock.dll

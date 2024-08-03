@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\bin\Debug\net8.0\T. Shape2.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\bin\Debug\net8.0\T. Shape2.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\bin\Debug\net8.0\T. Shape2.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\bin\Debug\net8.0\T. Shape2.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\bin\Debug\net8.0\T. Shape2.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\refint\T. Shape2.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\T. Shape2.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\T. Shape2\obj\Debug\net8.0\ref\T. Shape2.dll

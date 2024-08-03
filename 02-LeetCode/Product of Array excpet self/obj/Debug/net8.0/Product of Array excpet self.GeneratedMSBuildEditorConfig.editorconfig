@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Product_of_Array_excpet_self
-build_property.ProjectDir = O:\Software_Courses\00-My Local Problem Solving\LeetCode\Product of Array excpet self\
+build_property.ProjectDir = D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

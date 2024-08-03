@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\refint\M. Lucky Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\M. Lucky Numbers\obj\Debug\net8.0\ref\M. Lucky Numbers.dll

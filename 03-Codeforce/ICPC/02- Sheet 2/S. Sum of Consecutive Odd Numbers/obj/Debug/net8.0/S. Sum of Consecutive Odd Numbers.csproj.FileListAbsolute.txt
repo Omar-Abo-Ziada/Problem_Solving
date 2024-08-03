@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\bin\Debug\net8.0\S. Sum of Consecutive Odd Numbers.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\bin\Debug\net8.0\S. Sum of Consecutive Odd Numbers.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\bin\Debug\net8.0\S. Sum of Consecutive Odd Numbers.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\bin\Debug\net8.0\S. Sum of Consecutive Odd Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\bin\Debug\net8.0\S. Sum of Consecutive Odd Numbers.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\refint\S. Sum of Consecutive Odd Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\S. Sum of Consecutive Odd Numbers.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\S. Sum of Consecutive Odd Numbers\obj\Debug\net8.0\ref\S. Sum of Consecutive Odd Numbers.dll
