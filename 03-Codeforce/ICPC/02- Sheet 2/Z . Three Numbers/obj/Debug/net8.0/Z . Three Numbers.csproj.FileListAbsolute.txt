@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\bin\Debug\net8.0\Z . Three Numbers.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\bin\Debug\net8.0\Z . Three Numbers.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\bin\Debug\net8.0\Z . Three Numbers.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\bin\Debug\net8.0\Z . Three Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\bin\Debug\net8.0\Z . Three Numbers.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\refint\Z . Three Numbers.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\Z . Three Numbers.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\Z . Three Numbers\obj\Debug\net8.0\ref\Z . Three Numbers.dll

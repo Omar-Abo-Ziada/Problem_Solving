@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("J. Primes from 1 to n")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+335775c6e9c24205a4909524d76ab3e38fb00eb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9228ab27f37b8a135a14f6f0358d62874ba22146")]
 [assembly: System.Reflection.AssemblyProductAttribute("J. Primes from 1 to n")]
 [assembly: System.Reflection.AssemblyTitleAttribute("J. Primes from 1 to n")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,23 +27,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K. Divisors", "K. Divisors\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L. GCD", "L. GCD\L. GCD.csproj", "{0FF2618A-1C58-4482-A639-43C567E28C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M. Lucky Numbers", "M. Lucky Numbers\M. Lucky Numbers.csproj", "{1D430FF5-40BA-4B38-B7E9-8FB8EDAAD498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M. Lucky Numbers", "M. Lucky Numbers\M. Lucky Numbers.csproj", "{1D430FF5-40BA-4B38-B7E9-8FB8EDAAD498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N. Numbers Histogram", "N. Numbers Histogram\N. Numbers Histogram.csproj", "{E77FFA1C-0EF7-4E19-A2AF-EE7FCB53B872}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N. Numbers Histogram", "N. Numbers Histogram\N. Numbers Histogram.csproj", "{E77FFA1C-0EF7-4E19-A2AF-EE7FCB53B872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. Pyramid", "O. Pyramid\O. Pyramid.csproj", "{D8C3798B-3953-44FB-A5CE-3A60025E4B74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O. Pyramid", "O. Pyramid\O. Pyramid.csproj", "{D8C3798B-3953-44FB-A5CE-3A60025E4B74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P. Shape1", "P. Shape1\P. Shape1.csproj", "{6BC4F216-C818-400A-B2CB-0EFA799550E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Shape1", "P. Shape1\P. Shape1.csproj", "{6BC4F216-C818-400A-B2CB-0EFA799550E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q. Digits", "Q. Digits\Q. Digits.csproj", "{2A848ADE-DE2A-4FFF-8D30-E303A9AD6321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q. Digits", "Q. Digits\Q. Digits.csproj", "{2A848ADE-DE2A-4FFF-8D30-E303A9AD6321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R. Sequence of Numbers and Sum", "R. Sequence of Numbers and Sum\R. Sequence of Numbers and Sum.csproj", "{4F8E4C5C-E6ED-450D-98E6-F381445A14CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. Sequence of Numbers and Sum", "R. Sequence of Numbers and Sum\R. Sequence of Numbers and Sum.csproj", "{4F8E4C5C-E6ED-450D-98E6-F381445A14CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S. Sum of Consecutive Odd Numbers", "S. Sum of Consecutive Odd Numbers\S. Sum of Consecutive Odd Numbers.csproj", "{3E3C8294-A9A7-4072-AAB1-EC35022F8888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S. Sum of Consecutive Odd Numbers", "S. Sum of Consecutive Odd Numbers\S. Sum of Consecutive Odd Numbers.csproj", "{3E3C8294-A9A7-4072-AAB1-EC35022F8888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. Shape2", "T. Shape2\T. Shape2.csproj", "{FA4D1D7C-9119-43FE-9CEB-E3BD141BF566}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T. Shape2", "T. Shape2\T. Shape2.csproj", "{FA4D1D7C-9119-43FE-9CEB-E3BD141BF566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. Some Sums", "U. Some Sums\U. Some Sums.csproj", "{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U. Some Sums", "U. Some Sums\U. Some Sums.csproj", "{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V.PUM", "V.PUM\V.PUM.csproj", "{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W.Shape3", "W.Shape3\W.Shape3.csproj", "{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X.Convert To Decimal 2", "X.Convert To Decimal 2\X.Convert To Decimal 2.csproj", "{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y. Easy Fibonacci", "Y. Easy Fibonacci\Y. Easy Fibonacci.csproj", "{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z . Three Numbers", "Z . Three Numbers\Z . Three Numbers.csproj", "{C3F652F5-18A7-4A19-8BFC-0BDDE9CC23FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +145,26 @@ Global
 		{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F652F5-18A7-4A19-8BFC-0BDDE9CC23FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F652F5-18A7-4A19-8BFC-0BDDE9CC23FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F652F5-18A7-4A19-8BFC-0BDDE9CC23FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F652F5-18A7-4A19-8BFC-0BDDE9CC23FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

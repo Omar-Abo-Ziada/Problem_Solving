@@ -54,6 +54,7 @@ namespace T._Shape2
             {
                 Console.Write("*");
             }
+
             Console.WriteLine();
         }
     }

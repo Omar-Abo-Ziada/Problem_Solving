@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\bin\Debug\net8.0\X.Convert To Decimal 2.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\bin\Debug\net8.0\X.Convert To Decimal 2.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\bin\Debug\net8.0\X.Convert To Decimal 2.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\bin\Debug\net8.0\X.Convert To Decimal 2.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\bin\Debug\net8.0\X.Convert To Decimal 2.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\refint\X.Convert To Decimal 2.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\X.Convert To Decimal 2.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\02- Sheet 2\X.Convert To Decimal 2\obj\Debug\net8.0\ref\X.Convert To Decimal 2.dll
