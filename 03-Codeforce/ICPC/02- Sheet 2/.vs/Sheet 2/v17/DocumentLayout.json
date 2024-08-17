@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}|Y. Easy Fibonacci\\Y. Easy Fibonacci.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\y. easy fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}|Y. Easy Fibonacci\\Y. Easy Fibonacci.csproj|solutionrelative:y. easy fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3F652F5-18A7-4A19-8BFC-0BDDE9CC23FB}|Z . Three Numbers\\Z . Three Numbers.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\02- sheet 2\\z . three numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3F652F5-18A7-4A19-8BFC-0BDDE9CC23FB}|Z . Three Numbers\\Z . Three Numbers.csproj|solutionrelative:z . three numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}|Y. Easy Fibonacci\\Y. Easy Fibonacci.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\02- sheet 2\\y. easy fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F31D2E6-9920-49E3-B02D-E98EB19AEEDC}|Y. Easy Fibonacci\\Y. Easy Fibonacci.csproj|solutionrelative:y. easy fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}|X.Convert To Decimal 2\\X.Convert To Decimal 2.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\02- sheet 2\\x.convert to decimal 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}|X.Convert To Decimal 2\\X.Convert To Decimal 2.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\x.convert to decimal 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ACA9A50-5FEA-4115-9D5A-B8D4B5ECBE23}|X.Convert To Decimal 2\\X.Convert To Decimal 2.csproj|solutionrelative:x.convert to decimal 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}|W.Shape3\\W.Shape3.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\02- sheet 2\\w.shape3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}|W.Shape3\\W.Shape3.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\w.shape3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F60C062-F2AF-4F8F-A236-F6CE8C0BEE48}|W.Shape3\\W.Shape3.csproj|solutionrelative:w.shape3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}|V.PUM\\V.PUM.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\v.pum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}|V.PUM\\V.PUM.csproj|solutionrelative:v.pum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}|U. Some Sums\\U. Some Sums.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\u. some sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}|U. Some Sums\\U. Some Sums.csproj|solutionrelative:u. some sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA4D1D7C-9119-43FE-9CEB-E3BD141BF566}|T. Shape2\\T. Shape2.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\t. shape2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BC4F216-C818-400A-B2CB-0EFA799550E9}|P. Shape1\\P. Shape1.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\p. shape1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BC4F216-C818-400A-B2CB-0EFA799550E9}|P. Shape1\\P. Shape1.csproj|solutionrelative:p. shape1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}|V.PUM\\V.PUM.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\02- sheet 2\\v.pum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF7A7C2-5731-4D1B-9F10-236D1D8FA905}|V.PUM\\V.PUM.csproj|solutionrelative:v.pum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}|U. Some Sums\\U. Some Sums.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\02- sheet 2\\u. some sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D2D7675-E7CA-4D99-97DF-5EF24998FE08}|U. Some Sums\\U. Some Sums.csproj|solutionrelative:u. some sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E3C8294-A9A7-4072-AAB1-EC35022F8888}|S. Sum of Consecutive Odd Numbers\\S. Sum of Consecutive Odd Numbers.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\s. sum of consecutive odd numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,26 +122,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\Z . Three Numbers\\Program.cs",
               "RelativeDocumentMoniker": "Z . Three Numbers\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\Z . Three Numbers\\Program.cs",
               "RelativeToolTip": "Z . Three Numbers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T18:13:53.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\Y. Easy Fibonacci\\Program.cs",
               "RelativeDocumentMoniker": "Y. Easy Fibonacci\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\Y. Easy Fibonacci\\Program.cs",
               "RelativeToolTip": "Y. Easy Fibonacci\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T17:41:52.576Z",
               "EditorCaption": ""
@@ -154,7 +154,7 @@
               "RelativeDocumentMoniker": "X.Convert To Decimal 2\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\X.Convert To Decimal 2\\Program.cs",
               "RelativeToolTip": "X.Convert To Decimal 2\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwA0AAAANAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T16:57:09.251Z",
               "EditorCaption": ""
@@ -167,40 +167,40 @@
               "RelativeDocumentMoniker": "W.Shape3\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\W.Shape3\\Program.cs",
               "RelativeToolTip": "W.Shape3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T16:13:48.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\V.PUM\\Program.cs",
               "RelativeDocumentMoniker": "V.PUM\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\V.PUM\\Program.cs",
               "RelativeToolTip": "V.PUM\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T16:08:31.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\U. Some Sums\\Program.cs",
               "RelativeDocumentMoniker": "U. Some Sums\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\U. Some Sums\\Program.cs",
               "RelativeToolTip": "U. Some Sums\\Program.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAIBJwEIAAAANAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswDUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T18:46:22.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\T. Shape2\\Program.cs",
               "RelativeDocumentMoniker": "T. Shape2\\Program.cs",
@@ -208,8 +208,7 @@
               "RelativeToolTip": "T. Shape2\\Program.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAiwDYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T18:25:48.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T18:25:48.305Z"
             },
             {
               "$type": "Document",
@@ -221,8 +220,7 @@
               "RelativeToolTip": "S. Sum of Consecutive Odd Numbers\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T18:09:54.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T18:09:54.071Z"
             },
             {
               "$type": "Document",
@@ -234,8 +232,7 @@
               "RelativeToolTip": "R. Sequence of Numbers and Sum\\Program.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAAAFcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T17:48:24.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:48:24.562Z"
             },
             {
               "$type": "Document",
@@ -247,12 +244,11 @@
               "RelativeToolTip": "Q. Digits\\Program.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAUwFMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T17:11:22.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:11:22.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\P. Shape1\\Program.cs",
               "RelativeDocumentMoniker": "P. Shape1\\Program.cs",
@@ -260,12 +256,11 @@
               "RelativeToolTip": "P. Shape1\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T17:08:31.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:08:31.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\O. Pyramid\\Program.cs",
               "RelativeDocumentMoniker": "O. Pyramid\\Program.cs",
@@ -273,8 +268,7 @@
               "RelativeToolTip": "O. Pyramid\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T17:02:27.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:02:27.8Z"
             },
             {
               "$type": "Document",
@@ -286,8 +280,7 @@
               "RelativeToolTip": "N. Numbers Histogram\\Program.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAUwF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:35:30.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:35:30.692Z"
             },
             {
               "$type": "Document",
@@ -299,8 +292,7 @@
               "RelativeToolTip": "F. Multiplication table\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:11:03.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:11:03.311Z"
             },
             {
               "$type": "Document",
@@ -312,8 +304,7 @@
               "RelativeToolTip": "H. One Prime\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:11:03.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:11:03.337Z"
             },
             {
               "$type": "Document",
@@ -325,8 +316,7 @@
               "RelativeToolTip": "I. Palindrome\\Program.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAAEUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:35:29.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:35:29.966Z"
             },
             {
               "$type": "Document",
@@ -338,8 +328,7 @@
               "RelativeToolTip": "J. Primes from 1 to n\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAADwvxMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:35:29.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:35:29.964Z"
             },
             {
               "$type": "Document",
@@ -351,8 +340,7 @@
               "RelativeToolTip": "K. Divisors\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:35:29.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:35:29.96Z"
             },
             {
               "$type": "Document",
@@ -364,8 +352,7 @@
               "RelativeToolTip": "M. Lucky Numbers\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAUwD8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:36:21.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:36:21.607Z"
             },
             {
               "$type": "Document",
@@ -377,8 +364,7 @@
               "RelativeToolTip": "D. Fixed Password\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:11:03.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:11:03.288Z"
             },
             {
               "$type": "Document",
@@ -390,8 +376,7 @@
               "RelativeToolTip": "L. GCD\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:35:29.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:35:29.43Z"
             },
             {
               "$type": "Document",
@@ -403,8 +388,7 @@
               "RelativeToolTip": "C. Even, Odd, Positive and Negative\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:11:03.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:11:03.276Z"
             },
             {
               "$type": "Document",
@@ -416,8 +400,7 @@
               "RelativeToolTip": "A. 1 to N\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:11:03.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:11:03.251Z"
             }
           ]
         },

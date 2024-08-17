@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\bin\Debug\net8.0\B. Drawing 'X'.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\bin\Debug\net8.0\B. Drawing 'X'.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\bin\Debug\net8.0\B. Drawing 'X'.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\bin\Debug\net8.0\B. Drawing 'X'.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\bin\Debug\net8.0\B. Drawing 'X'.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\refint\B. Drawing 'X'.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\B. Drawing 'X'.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\B. Drawing 'X'\obj\Debug\net8.0\ref\B. Drawing 'X'.dll

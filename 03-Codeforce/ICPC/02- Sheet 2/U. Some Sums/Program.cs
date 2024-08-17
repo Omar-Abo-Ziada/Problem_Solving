@@ -54,7 +54,7 @@ So the answer is: 84.
                 sum += ValidateSum(i, A, B);
             }
 
-            //Console.WriteLine(sum);
+            Console.WriteLine(sum);
         }
 
         private static int ValidateSum(short i, short A, short B)

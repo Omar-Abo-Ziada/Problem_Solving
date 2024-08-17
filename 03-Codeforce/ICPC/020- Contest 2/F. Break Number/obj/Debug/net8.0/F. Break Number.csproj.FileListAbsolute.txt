@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\bin\Debug\net8.0\F. Break Number.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\bin\Debug\net8.0\F. Break Number.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\bin\Debug\net8.0\F. Break Number.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\bin\Debug\net8.0\F. Break Number.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\bin\Debug\net8.0\F. Break Number.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\refint\F. Break Number.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\F. Break Number.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\020- Contest 2\F. Break Number\obj\Debug\net8.0\ref\F. Break Number.dll
