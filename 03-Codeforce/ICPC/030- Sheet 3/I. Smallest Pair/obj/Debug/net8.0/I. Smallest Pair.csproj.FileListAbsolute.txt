@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\bin\Debug\net8.0\I. Smallest Pair.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\bin\Debug\net8.0\I. Smallest Pair.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\bin\Debug\net8.0\I. Smallest Pair.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\bin\Debug\net8.0\I. Smallest Pair.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\bin\Debug\net8.0\I. Smallest Pair.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\refint\I. Smallest Pair.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\I. Smallest Pair.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\I. Smallest Pair\obj\Debug\net8.0\ref\I. Smallest Pair.dll

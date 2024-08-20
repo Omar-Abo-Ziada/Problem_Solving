@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\bin\Debug\net8.0\D. Positions in array.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\bin\Debug\net8.0\D. Positions in array.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\bin\Debug\net8.0\D. Positions in array.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\bin\Debug\net8.0\D. Positions in array.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\bin\Debug\net8.0\D. Positions in array.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\refint\D. Positions in array.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\D. Positions in array.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\D. Positions in array\obj\Debug\net8.0\ref\D. Positions in array.dll
