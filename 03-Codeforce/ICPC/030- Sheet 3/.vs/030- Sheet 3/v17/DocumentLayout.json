@@ -3,43 +3,90 @@
   "WorkspaceRootPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD0DFE8F-4A2F-4F8C-B396-7B68C15108CB}|U. Is B a subsequence of A\\U. Is B a subsequence of A.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\u. is b a subsequence of a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0DFE8F-4A2F-4F8C-B396-7B68C15108CB}|U. Is B a subsequence of A\\U. Is B a subsequence of A.csproj|solutionrelative:u. is b a subsequence of a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962EC3B2-FF67-448D-8E90-8702008B718B}|T. Matrix\\T. Matrix.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\t. matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962EC3B2-FF67-448D-8E90-8702008B718B}|T. Matrix\\T. Matrix.csproj|solutionrelative:t. matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD422E-FA54-4A61-B207-560919477867}|S. Search In Matrix\\S. Search In Matrix.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\s. search in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD422E-FA54-4A61-B207-560919477867}|S. Search In Matrix\\S. Search In Matrix.csproj|solutionrelative:s. search in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515D3F50-21BD-48C0-A5F3-44997F1DC112}|R. Permutation with arrays\\R. Permutation with arrays.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\r. permutation with arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515D3F50-21BD-48C0-A5F3-44997F1DC112}|R. Permutation with arrays\\R. Permutation with arrays.csproj|solutionrelative:r. permutation with arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008BF5F3-E63A-4016-B6A2-55A60FC307A7}|Q. Count Subarrays\\Q. Count Subarrays.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\q. count subarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008BF5F3-E63A-4016-B6A2-55A60FC307A7}|Q. Count Subarrays\\Q. Count Subarrays.csproj|solutionrelative:q. count subarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084E867A-9328-462F-BA05-FAD373AEA580}|L. Max Subarray\\L. Max Subarray.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\l. max subarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084E867A-9328-462F-BA05-FAD373AEA580}|L. Max Subarray\\L. Max Subarray.csproj|solutionrelative:l. max subarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CDD1D50-17E4-4D35-B66F-660BC4555B7F}|J. Lucky Array\\J. Lucky Array.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\j. lucky array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CDD1D50-17E4-4D35-B66F-660BC4555B7F}|J. Lucky Array\\J. Lucky Array.csproj|solutionrelative:j. lucky array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96EB47A-F980-4851-92A0-3B19D16C79AC}|I. Smallest Pair\\I. Smallest Pair.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\i. smallest pair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81571DD1-D202-4074-A052-1AF9A48AE38C}|K. Sum Digits\\K. Sum Digits.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\k. sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81571DD1-D202-4074-A052-1AF9A48AE38C}|K. Sum Digits\\K. Sum Digits.csproj|solutionrelative:k. sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF8ACDE-FD79-4F05-85E8-F86099C7277A}|M. Replace MinMax\\M. Replace MinMax.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\m. replace minmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF8ACDE-FD79-4F05-85E8-F86099C7277A}|M. Replace MinMax\\M. Replace MinMax.csproj|solutionrelative:m. replace minmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4002736-B985-4CE5-B72E-A18F6C6E95A5}|P. Minimize Number\\P. Minimize Number.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\p. minimize number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4002736-B985-4CE5-B72E-A18F6C6E95A5}|P. Minimize Number\\P. Minimize Number.csproj|solutionrelative:p. minimize number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB55CC89-724B-4A1A-849A-50E725E2850D}|O. Fibonacci\\O. Fibonacci.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\o. fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB55CC89-724B-4A1A-849A-50E725E2850D}|O. Fibonacci\\O. Fibonacci.csproj|solutionrelative:o. fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\Y. Easy Fibonacci\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF16EF5-2060-49D2-8655-9E5BB8910E38}|N. Check Code\\N. Check Code.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\n. check code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF16EF5-2060-49D2-8655-9E5BB8910E38}|N. Check Code\\N. Check Code.csproj|solutionrelative:n. check code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96EB47A-F980-4851-92A0-3B19D16C79AC}|I. Smallest Pair\\I. Smallest Pair.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\i. smallest pair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C96EB47A-F980-4851-92A0-3B19D16C79AC}|I. Smallest Pair\\I. Smallest Pair.csproj|solutionrelative:i. smallest pair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{788F5DD9-BB1F-4790-A15D-8E7D534C0002}|H. Sorting\\H. Sorting.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\h. sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{788F5DD9-BB1F-4790-A15D-8E7D534C0002}|H. Sorting\\H. Sorting.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\h. sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{788F5DD9-BB1F-4790-A15D-8E7D534C0002}|H. Sorting\\H. Sorting.csproj|solutionrelative:h. sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59627EE5-A2B1-4E37-BEA7-7DB7B944D91B}|G. Palindrome Array\\G. Palindrome Array.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\g. palindrome array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59627EE5-A2B1-4E37-BEA7-7DB7B944D91B}|G. Palindrome Array\\G. Palindrome Array.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\g. palindrome array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59627EE5-A2B1-4E37-BEA7-7DB7B944D91B}|G. Palindrome Array\\G. Palindrome Array.csproj|solutionrelative:g. palindrome array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{837B0CEF-C328-4F18-9B65-24E7B7DAF4DA}|F. Reversing\\F. Reversing.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\f. reversing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{837B0CEF-C328-4F18-9B65-24E7B7DAF4DA}|F. Reversing\\F. Reversing.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\f. reversing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{837B0CEF-C328-4F18-9B65-24E7B7DAF4DA}|F. Reversing\\F. Reversing.csproj|solutionrelative:f. reversing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB10FF62-C04B-452C-9ABD-655976273E38}|E. Lowest Number\\E. Lowest Number.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\e. lowest number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB10FF62-C04B-452C-9ABD-655976273E38}|E. Lowest Number\\E. Lowest Number.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\e. lowest number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB10FF62-C04B-452C-9ABD-655976273E38}|E. Lowest Number\\E. Lowest Number.csproj|solutionrelative:e. lowest number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50B4C970-8CC6-4B00-AC4B-DA46BF6C7B29}|D. Positions in array\\D. Positions in array.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\d. positions in array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50B4C970-8CC6-4B00-AC4B-DA46BF6C7B29}|D. Positions in array\\D. Positions in array.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\d. positions in array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50B4C970-8CC6-4B00-AC4B-DA46BF6C7B29}|D. Positions in array\\D. Positions in array.csproj|solutionrelative:d. positions in array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7B46C46-8347-4A2D-A296-9ED03812F9C9}|C. Replacement\\C. Replacement.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\c. replacement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7B46C46-8347-4A2D-A296-9ED03812F9C9}|C. Replacement\\C. Replacement.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\c. replacement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7B46C46-8347-4A2D-A296-9ED03812F9C9}|C. Replacement\\C. Replacement.csproj|solutionrelative:c. replacement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97756695-C610-4DB3-BC08-4AF4EA41DFE5}|B. Searching\\B. Searching.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\b. searching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97756695-C610-4DB3-BC08-4AF4EA41DFE5}|B. Searching\\B. Searching.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\b. searching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97756695-C610-4DB3-BC08-4AF4EA41DFE5}|B. Searching\\B. Searching.csproj|solutionrelative:b. searching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63B733BB-553D-44F9-BE7A-BB771C99E104}|A. Summation\\A. Summation.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\a. summation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63B733BB-553D-44F9-BE7A-BB771C99E104}|A. Summation\\A. Summation.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\a. summation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63B733BB-553D-44F9-BE7A-BB771C99E104}|A. Summation\\A. Summation.csproj|solutionrelative:a. summation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -72,31 +119,187 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\J. Lucky Array\\Program.cs",
-              "RelativeDocumentMoniker": "J. Lucky Array\\Program.cs",
-              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\J. Lucky Array\\Program.cs",
-              "RelativeToolTip": "J. Lucky Array\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\U. Is B a subsequence of A\\Program.cs",
+              "RelativeDocumentMoniker": "U. Is B a subsequence of A\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\U. Is B a subsequence of A\\Program.cs",
+              "RelativeToolTip": "U. Is B a subsequence of A\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:42:27.085Z",
+              "WhenOpened": "2024-08-27T20:16:19.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\T. Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "T. Matrix\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\T. Matrix\\Program.cs",
+              "RelativeToolTip": "T. Matrix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:54:45.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\S. Search In Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "S. Search In Matrix\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\S. Search In Matrix\\Program.cs",
+              "RelativeToolTip": "S. Search In Matrix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:26:07.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\R. Permutation with arrays\\Program.cs",
+              "RelativeDocumentMoniker": "R. Permutation with arrays\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\R. Permutation with arrays\\Program.cs",
+              "RelativeToolTip": "R. Permutation with arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:11:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\Q. Count Subarrays\\Program.cs",
+              "RelativeDocumentMoniker": "Q. Count Subarrays\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\Q. Count Subarrays\\Program.cs",
+              "RelativeToolTip": "Q. Count Subarrays\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwD0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:08:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\P. Minimize Number\\Program.cs",
+              "RelativeDocumentMoniker": "P. Minimize Number\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\P. Minimize Number\\Program.cs",
+              "RelativeToolTip": "P. Minimize Number\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv14AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:48:48.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\O. Fibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "O. Fibonacci\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\O. Fibonacci\\Program.cs",
+              "RelativeToolTip": "O. Fibonacci\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:18:59.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\N. Check Code\\Program.cs",
+              "RelativeDocumentMoniker": "N. Check Code\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\N. Check Code\\Program.cs",
+              "RelativeToolTip": "N. Check Code\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:45:13.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\M. Replace MinMax\\Program.cs",
+              "RelativeDocumentMoniker": "M. Replace MinMax\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\M. Replace MinMax\\Program.cs",
+              "RelativeToolTip": "M. Replace MinMax\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:26:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\L. Max Subarray\\Program.cs",
+              "RelativeDocumentMoniker": "L. Max Subarray\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\L. Max Subarray\\Program.cs",
+              "RelativeToolTip": "L. Max Subarray\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:20:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\K. Sum Digits\\Program.cs",
+              "RelativeDocumentMoniker": "K. Sum Digits\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\K. Sum Digits\\Program.cs",
+              "RelativeToolTip": "K. Sum Digits\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:08:43.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\J. Lucky Array\\Program.cs",
+              "RelativeDocumentMoniker": "J. Lucky Array\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\J. Lucky Array\\Program.cs",
+              "RelativeToolTip": "J. Lucky Array\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:42:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\Y. Easy Fibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "..\\02- Sheet 2\\Y. Easy Fibonacci\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\02- Sheet 2\\Y. Easy Fibonacci\\Program.cs",
+              "RelativeToolTip": "..\\02- Sheet 2\\Y. Easy Fibonacci\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:30:26.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\I. Smallest Pair\\Program.cs",
               "RelativeDocumentMoniker": "I. Smallest Pair\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\I. Smallest Pair\\Program.cs",
               "RelativeToolTip": "I. Smallest Pair\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwE0AAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T17:08:40.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\H. Sorting\\Program.cs",
               "RelativeDocumentMoniker": "H. Sorting\\Program.cs",
@@ -109,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\G. Palindrome Array\\Program.cs",
               "RelativeDocumentMoniker": "G. Palindrome Array\\Program.cs",
@@ -122,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\F. Reversing\\Program.cs",
               "RelativeDocumentMoniker": "F. Reversing\\Program.cs",
@@ -130,12 +333,11 @@
               "RelativeToolTip": "F. Reversing\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:57:36.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:57:36.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\E. Lowest Number\\Program.cs",
               "RelativeDocumentMoniker": "E. Lowest Number\\Program.cs",
@@ -143,12 +345,11 @@
               "RelativeToolTip": "E. Lowest Number\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:53:38.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:53:38.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\D. Positions in array\\Program.cs",
               "RelativeDocumentMoniker": "D. Positions in array\\Program.cs",
@@ -156,12 +357,11 @@
               "RelativeToolTip": "D. Positions in array\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwCMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:49:29.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:49:29.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\C. Replacement\\Program.cs",
               "RelativeDocumentMoniker": "C. Replacement\\Program.cs",
@@ -169,12 +369,11 @@
               "RelativeToolTip": "C. Replacement\\Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAwwCEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:43:40.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:43:40.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\B. Searching\\Program.cs",
               "RelativeDocumentMoniker": "B. Searching\\Program.cs",
@@ -182,12 +381,11 @@
               "RelativeToolTip": "B. Searching\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:36:11.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:36:11.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\A. Summation\\Program.cs",
               "RelativeDocumentMoniker": "A. Summation\\Program.cs",
@@ -195,8 +393,7 @@
               "RelativeToolTip": "A. Summation\\Program.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAwwEcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:30:02.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:30:02.875Z"
             }
           ]
         },

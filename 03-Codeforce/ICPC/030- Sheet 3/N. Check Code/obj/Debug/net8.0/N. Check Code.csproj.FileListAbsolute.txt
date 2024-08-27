@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\bin\Debug\net8.0\N. Check Code.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\bin\Debug\net8.0\N. Check Code.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\bin\Debug\net8.0\N. Check Code.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\bin\Debug\net8.0\N. Check Code.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\bin\Debug\net8.0\N. Check Code.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\refint\N. Check Code.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\N. Check Code.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\N. Check Code\obj\Debug\net8.0\ref\N. Check Code.dll

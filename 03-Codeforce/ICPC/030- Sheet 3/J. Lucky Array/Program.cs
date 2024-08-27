@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            #region MyRegion
+            #region doc
             /*
               * J. Lucky Array
  time limit per test1 second
@@ -42,10 +42,55 @@
  minimum element is 3 and its frequency is 4 and it's EVEN so the array is not lucky.
 
 
-              */ 
+              */
             #endregion
 
+            short N = short.Parse(Console.ReadLine());
 
+            int[] nums = new int[N];
+
+            string[] inputs = Console.ReadLine().Split();
+
+            for (int i = 0; i < N; i++)
+            {
+                nums[i] = int.Parse(inputs[i]);
+            }
+
+            int frequency = GetMinNumFrequency(nums);
+
+            if (frequency % 2 != 0 ) 
+            {
+                Console.WriteLine("Lucky");
+            }
+            else
+            {
+                Console.WriteLine("Unlucky");
+            }
+        }
+
+        private static int GetMinNumFrequency(int[] nums)
+        {
+            int min = nums[0];
+
+            for(int i = 0; i < nums.Length ; i++)
+            {
+                if (nums[i] < min)
+                {
+                    min = nums[i];
+                }
+            }
+
+            int frequency = 0;
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] == min)
+                {
+                    frequency ++;
+                }
+            }
+
+            return frequency;
         }
     }
 }

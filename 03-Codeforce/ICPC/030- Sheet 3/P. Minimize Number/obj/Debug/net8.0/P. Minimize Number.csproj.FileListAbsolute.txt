@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\bin\Debug\net8.0\P. Minimize Number.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\bin\Debug\net8.0\P. Minimize Number.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\bin\Debug\net8.0\P. Minimize Number.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\bin\Debug\net8.0\P. Minimize Number.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\bin\Debug\net8.0\P. Minimize Number.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\refint\P. Minimize Number.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\P. Minimize Number.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\P. Minimize Number\obj\Debug\net8.0\ref\P. Minimize Number.dll

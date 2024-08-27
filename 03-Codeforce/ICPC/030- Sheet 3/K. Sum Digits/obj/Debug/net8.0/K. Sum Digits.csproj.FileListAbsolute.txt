@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\bin\Debug\net8.0\K. Sum Digits.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\bin\Debug\net8.0\K. Sum Digits.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\bin\Debug\net8.0\K. Sum Digits.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\bin\Debug\net8.0\K. Sum Digits.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\bin\Debug\net8.0\K. Sum Digits.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\refint\K. Sum Digits.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\K. Sum Digits.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\K. Sum Digits\obj\Debug\net8.0\ref\K. Sum Digits.dll

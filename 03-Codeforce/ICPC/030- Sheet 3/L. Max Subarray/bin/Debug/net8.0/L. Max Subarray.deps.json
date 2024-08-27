@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L. Max Subarray/1.0.0": {
+        "runtime": {
+          "L. Max Subarray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L. Max Subarray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
