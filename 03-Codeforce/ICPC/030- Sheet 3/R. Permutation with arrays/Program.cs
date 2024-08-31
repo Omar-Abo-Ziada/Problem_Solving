@@ -6,7 +6,7 @@
         {
             int ArrayLength = int.Parse(Console.ReadLine());
 
-            int[] A = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+                int[] A = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
             int[] B = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 
             if (IsPermutaion(A, B))

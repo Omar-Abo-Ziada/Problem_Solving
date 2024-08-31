@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\bin\Debug\net8.0\X. 8 Neighbors.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\bin\Debug\net8.0\X. 8 Neighbors.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\bin\Debug\net8.0\X. 8 Neighbors.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\bin\Debug\net8.0\X. 8 Neighbors.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\bin\Debug\net8.0\X. 8 Neighbors.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\refint\X. 8 Neighbors.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\X. 8 Neighbors.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\X. 8 Neighbors\obj\Debug\net8.0\ref\X. 8 Neighbors.dll

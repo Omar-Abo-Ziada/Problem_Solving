@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\bin\Debug\net8.0\U. Is B a subsequence of A.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\bin\Debug\net8.0\U. Is B a subsequence of A.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\bin\Debug\net8.0\U. Is B a subsequence of A.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\bin\Debug\net8.0\U. Is B a subsequence of A.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\bin\Debug\net8.0\U. Is B a subsequence of A.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\refint\U. Is B a subsequence of A.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\U. Is B a subsequence of A.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\030- Sheet 3\U. Is B a subsequence of A\obj\Debug\net8.0\ref\U. Is B a subsequence of A.dll

@@ -77,10 +77,71 @@
   21 8 40
   OutputCopy
   YES
-  */ 
+  */
             #endregion
 
+            string[] sizes = Console.ReadLine().Split();
 
+            int N = int.Parse(sizes[0]);
+            int M = int.Parse(sizes[1]);
+
+            int[] A = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+            int[] B = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+
+            if(IsSubSequence(A, B))
+            {
+                Console.WriteLine("YES");
+            }
+            else
+            {
+                Console.WriteLine("NO");
+            }
+        }
+
+        private static bool IsSubSequence(int[] A , int[] B)
+        {
+            if(B.Length == A.Length)
+            {
+                for (int i = 0; i < A.Length; i++)
+                {
+                    if (A[i] != B[i])
+                    {
+                        return false;
+                    }
+                }
+                return true;
+            }
+            else if(B.Length > A.Length)
+            {
+                return false;
+            }
+            else
+            {
+                int prevIndex = -1;
+                bool elementFound;
+
+                for (int i = 0; i < B.Length; i++)
+                {
+                   elementFound = false;
+
+                    for (int j = 0; j < A.Length; j++)
+                    {
+                        if (B[i] == A[j] && j > prevIndex)
+                        {
+                            prevIndex = j;
+                            elementFound = true;
+                            break;
+                        }
+                    }
+
+                    if (!elementFound)
+                    {
+                        return false;
+                    }
+                }
+
+                return true;
+            }
         }
     }
 }

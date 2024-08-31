@@ -23,27 +23,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I. Smallest Pair", "I. Smal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "J. Lucky Array", "J. Lucky Array\J. Lucky Array.csproj", "{6CDD1D50-17E4-4D35-B66F-660BC4555B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K. Sum Digits", "K. Sum Digits\K. Sum Digits.csproj", "{81571DD1-D202-4074-A052-1AF9A48AE38C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K. Sum Digits", "K. Sum Digits\K. Sum Digits.csproj", "{81571DD1-D202-4074-A052-1AF9A48AE38C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L. Max Subarray", "L. Max Subarray\L. Max Subarray.csproj", "{084E867A-9328-462F-BA05-FAD373AEA580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L. Max Subarray", "L. Max Subarray\L. Max Subarray.csproj", "{084E867A-9328-462F-BA05-FAD373AEA580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M. Replace MinMax", "M. Replace MinMax\M. Replace MinMax.csproj", "{9BF8ACDE-FD79-4F05-85E8-F86099C7277A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M. Replace MinMax", "M. Replace MinMax\M. Replace MinMax.csproj", "{9BF8ACDE-FD79-4F05-85E8-F86099C7277A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N. Check Code", "N. Check Code\N. Check Code.csproj", "{5AF16EF5-2060-49D2-8655-9E5BB8910E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N. Check Code", "N. Check Code\N. Check Code.csproj", "{5AF16EF5-2060-49D2-8655-9E5BB8910E38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. Fibonacci", "O. Fibonacci\O. Fibonacci.csproj", "{EB55CC89-724B-4A1A-849A-50E725E2850D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O. Fibonacci", "O. Fibonacci\O. Fibonacci.csproj", "{EB55CC89-724B-4A1A-849A-50E725E2850D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P. Minimize Number", "P. Minimize Number\P. Minimize Number.csproj", "{E4002736-B985-4CE5-B72E-A18F6C6E95A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Minimize Number", "P. Minimize Number\P. Minimize Number.csproj", "{E4002736-B985-4CE5-B72E-A18F6C6E95A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q. Count Subarrays", "Q. Count Subarrays\Q. Count Subarrays.csproj", "{008BF5F3-E63A-4016-B6A2-55A60FC307A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q. Count Subarrays", "Q. Count Subarrays\Q. Count Subarrays.csproj", "{008BF5F3-E63A-4016-B6A2-55A60FC307A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R. Permutation with arrays", "R. Permutation with arrays\R. Permutation with arrays.csproj", "{515D3F50-21BD-48C0-A5F3-44997F1DC112}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. Permutation with arrays", "R. Permutation with arrays\R. Permutation with arrays.csproj", "{515D3F50-21BD-48C0-A5F3-44997F1DC112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S. Search In Matrix", "S. Search In Matrix\S. Search In Matrix.csproj", "{1EDD422E-FA54-4A61-B207-560919477867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S. Search In Matrix", "S. Search In Matrix\S. Search In Matrix.csproj", "{1EDD422E-FA54-4A61-B207-560919477867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. Matrix", "T. Matrix\T. Matrix.csproj", "{962EC3B2-FF67-448D-8E90-8702008B718B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T. Matrix", "T. Matrix\T. Matrix.csproj", "{962EC3B2-FF67-448D-8E90-8702008B718B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. Is B a subsequence of A", "U. Is B a subsequence of A\U. Is B a subsequence of A.csproj", "{AD0DFE8F-4A2F-4F8C-B396-7B68C15108CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U. Is B a subsequence of A", "U. Is B a subsequence of A\U. Is B a subsequence of A.csproj", "{AD0DFE8F-4A2F-4F8C-B396-7B68C15108CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V. Frequency Array", "V. Frequency Array\V. Frequency Array.csproj", "{9E44C7BD-E9BC-4036-A88D-F8270A89CC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W. Mirror Array", "W. Mirror Array\W. Mirror Array.csproj", "{9978ABDC-DD59-45D7-BA19-9368C31D57E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X. 8 Neighbors", "X. 8 Neighbors\X. 8 Neighbors.csproj", "{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{AD0DFE8F-4A2F-4F8C-B396-7B68C15108CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD0DFE8F-4A2F-4F8C-B396-7B68C15108CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD0DFE8F-4A2F-4F8C-B396-7B68C15108CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E44C7BD-E9BC-4036-A88D-F8270A89CC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E44C7BD-E9BC-4036-A88D-F8270A89CC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E44C7BD-E9BC-4036-A88D-F8270A89CC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E44C7BD-E9BC-4036-A88D-F8270A89CC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9978ABDC-DD59-45D7-BA19-9368C31D57E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9978ABDC-DD59-45D7-BA19-9368C31D57E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9978ABDC-DD59-45D7-BA19-9368C31D57E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9978ABDC-DD59-45D7-BA19-9368C31D57E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
