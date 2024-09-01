@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("R. Permutation with arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76aa0340b807651de17c6e319182cc2747b684d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02830a58a5e98fe81c5bc4b777c0c96dc2a80387")]
 [assembly: System.Reflection.AssemblyProductAttribute("R. Permutation with arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("R. Permutation with arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
