@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\bin\Debug\net8.0\B. Reversing.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\bin\Debug\net8.0\B. Reversing.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\bin\Debug\net8.0\B. Reversing.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\bin\Debug\net8.0\B. Reversing.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\bin\Debug\net8.0\B. Reversing.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\refint\B. Reversing.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\B. Reversing.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\B. Reversing\obj\Debug\net8.0\ref\B. Reversing.dll

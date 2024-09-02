@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{788F5DD9-BB1F-4790-A15D-8E7D534C0002}|H. Sorting\\H. Sorting.csproj|solutionrelative:h. sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{788F5DD9-BB1F-4790-A15D-8E7D534C0002}|H. Sorting\\H. Sorting.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\h. sorting\\h. sorting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{788F5DD9-BB1F-4790-A15D-8E7D534C0002}|H. Sorting\\H. Sorting.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\h. sorting\\h. sorting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{788F5DD9-BB1F-4790-A15D-8E7D534C0002}|H. Sorting\\H. Sorting.csproj|solutionrelative:h. sorting\\h. sorting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4203E5DB-2C0F-4B37-BEA4-0F4B5FF32980}|Y. Range sum query\\Y. Range sum query.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\y. range sum query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4203E5DB-2C0F-4B37-BEA4-0F4B5FF32980}|Y. Range sum query\\Y. Range sum query.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\y. range sum query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4203E5DB-2C0F-4B37-BEA4-0F4B5FF32980}|Y. Range sum query\\Y. Range sum query.csproj|solutionrelative:y. range sum query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{9E44C7BD-E9BC-4036-A88D-F8270A89CC69}|V. Frequency Array\\V. Frequency Array.csproj|solutionrelative:v. frequency array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}|X. 8 Neighbors\\X. 8 Neighbors.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\030- sheet 3\\x. 8 neighbors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}|X. 8 Neighbors\\X. 8 Neighbors.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\x. 8 neighbors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06C301FC-9219-4A7E-8AED-CEEA3F2E7509}|X. 8 Neighbors\\X. 8 Neighbors.csproj|solutionrelative:x. 8 neighbors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -149,8 +149,7 @@
               "RelativeToolTip": "H. Sorting\\H. Sorting.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-01T20:16:10.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T20:16:10.243Z"
             },
             {
               "$type": "Document",
@@ -160,7 +159,7 @@
               "RelativeDocumentMoniker": "Z. Binary Search\\Program.cs",
               "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\030- Sheet 3\\Z. Binary Search\\Program.cs",
               "RelativeToolTip": "Z. Binary Search\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwEIAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T17:50:18.461Z",
               "EditorCaption": ""
@@ -175,8 +174,7 @@
               "RelativeToolTip": "Y. Range sum query\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:32:14.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T17:32:14.988Z"
             },
             {
               "$type": "Document",
@@ -188,8 +186,7 @@
               "RelativeToolTip": "W. Mirror Array\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:42:41.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T17:42:41.724Z"
             },
             {
               "$type": "Document",
@@ -201,8 +198,7 @@
               "RelativeToolTip": "V. Frequency Array\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T17:20:08.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T17:20:08.119Z"
             },
             {
               "$type": "Document",
@@ -214,8 +210,7 @@
               "RelativeToolTip": "U. Is B a subsequence of A\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T20:16:19.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T20:16:19.092Z"
             },
             {
               "$type": "Document",
@@ -251,8 +246,7 @@
               "RelativeToolTip": "H. Sorting\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAD0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:16:40.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T19:16:40.849Z"
             },
             {
               "$type": "Document",
@@ -264,8 +258,7 @@
               "RelativeToolTip": "X. 8 Neighbors\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAFkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:08:52.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T19:08:52.617Z"
             },
             {
               "$type": "Document",
@@ -289,8 +282,7 @@
               "RelativeToolTip": "Q. Count Subarrays\\Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAwD0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:08:15.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T19:08:15.767Z"
             },
             {
               "$type": "Document",
@@ -302,8 +294,7 @@
               "RelativeToolTip": "P. Minimize Number\\Program.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAADwv14AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:48:48.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T18:48:48.704Z"
             },
             {
               "$type": "Document",
@@ -411,8 +402,7 @@
               "RelativeToolTip": "G. Palindrome Array\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:03:43.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T19:03:43.245Z"
             },
             {
               "$type": "Document",

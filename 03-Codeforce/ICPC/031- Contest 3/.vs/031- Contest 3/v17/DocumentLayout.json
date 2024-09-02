@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD7FE8C-5C33-4F51-9FA9-C45D22296571}|C. Choose Elements\\C. Choose Elements.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\031- contest 3\\c. choose elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD7FE8C-5C33-4F51-9FA9-C45D22296571}|C. Choose Elements\\C. Choose Elements.csproj|solutionrelative:c. choose elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B84413-B8EA-47E6-8C58-636BC0E64106}|B. Reversing\\B. Reversing.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\031- contest 3\\b. reversing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B84413-B8EA-47E6-8C58-636BC0E64106}|B. Reversing\\B. Reversing.csproj|solutionrelative:b. reversing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C0FDEC-49A7-45CA-A858-FCEB265E0FFB}|A. Square or rectangle\\A. Square or rectangle.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\031- contest 3\\a. square or rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C0FDEC-49A7-45CA-A858-FCEB265E0FFB}|A. Square or rectangle\\A. Square or rectangle.csproj|solutionrelative:a. square or rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\C. Choose Elements\\Program.cs",
+              "RelativeDocumentMoniker": "C. Choose Elements\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\C. Choose Elements\\Program.cs",
+              "RelativeToolTip": "C. Choose Elements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:43:29.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\B. Reversing\\Program.cs",
+              "RelativeDocumentMoniker": "B. Reversing\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\B. Reversing\\Program.cs",
+              "RelativeToolTip": "B. Reversing\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:29:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\A. Square or rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "A. Square or rectangle\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\A. Square or rectangle\\Program.cs",
+              "RelativeToolTip": "A. Square or rectangle\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:21:34.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

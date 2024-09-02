@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\bin\Debug\net8.0\A. Square or rectangle.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\bin\Debug\net8.0\A. Square or rectangle.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\bin\Debug\net8.0\A. Square or rectangle.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\bin\Debug\net8.0\A. Square or rectangle.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\bin\Debug\net8.0\A. Square or rectangle.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\refint\A. Square or rectangle.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\A. Square or rectangle.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- Contest 3\A. Square or rectangle\obj\Debug\net8.0\ref\A. Square or rectangle.dll
