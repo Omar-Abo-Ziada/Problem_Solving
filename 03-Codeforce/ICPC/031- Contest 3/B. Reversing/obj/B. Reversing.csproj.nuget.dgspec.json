@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\B. Reversing\\B. Reversing.csproj": {}
+    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\B. Reversing\\B. Reversing.csproj": {}
   },
   "projects": {
-    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\B. Reversing\\B. Reversing.csproj": {
+    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\B. Reversing\\B. Reversing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\B. Reversing\\B. Reversing.csproj",
+        "projectUniqueName": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\B. Reversing\\B. Reversing.csproj",
         "projectName": "B. Reversing",
-        "projectPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\B. Reversing\\B. Reversing.csproj",
+        "projectPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\B. Reversing\\B. Reversing.csproj",
         "packagesPath": "C:\\Users\\oahme\\.nuget\\packages\\",
-        "outputPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\B. Reversing\\obj\\",
+        "outputPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\B. Reversing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\C. Choose Elements\\C. Choose Elements.csproj": {}
+    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\C. Choose Elements\\C. Choose Elements.csproj": {}
   },
   "projects": {
-    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\C. Choose Elements\\C. Choose Elements.csproj": {
+    "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\C. Choose Elements\\C. Choose Elements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\C. Choose Elements\\C. Choose Elements.csproj",
+        "projectUniqueName": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\C. Choose Elements\\C. Choose Elements.csproj",
         "projectName": "C. Choose Elements",
-        "projectPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\C. Choose Elements\\C. Choose Elements.csproj",
+        "projectPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\C. Choose Elements\\C. Choose Elements.csproj",
         "packagesPath": "C:\\Users\\oahme\\.nuget\\packages\\",
-        "outputPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- Contest 3\\C. Choose Elements\\obj\\",
+        "outputPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\031- contest 3\\C. Choose Elements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

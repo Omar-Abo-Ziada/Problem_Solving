@@ -54,15 +54,41 @@
             int N = int.Parse(inputs[0]);
             int K = int.Parse(inputs[1]);
 
-            int[] nums = Array.ConvertAll(Console.ReadLine().Split() , int.Parse);
+            int[] numsArr = Array.ConvertAll(Console.ReadLine().Split() , int.Parse);
 
-            //for (int i = 0; i < length; i++)
+            List<int> numsList = new List<int>(numsArr);
+
+            //foreach (var item in numsList)
             //{
-                
+            //    Console.WriteLine(item);
             //}
 
+            int maxSum = 0 ;
+            int maxElement ;
 
+            while (K > 0)
+            {
+                maxElement = numsList[0];
+
+                for (int i = 0; i < numsList.Count; i++)
+                {
+                    if (numsList[i] > maxSum && numsList[i] > 0)
+                    {
+                        maxElement = numsList[i];
+                    }
+                }
+
+                maxSum += maxElement;
+
+                K--;
+
+                numsList.Remove(maxElement);
+            }
+
+            int result = maxSum > 0 ? maxSum :0 ;
+
+
+            Console.WriteLine(result);
         }
-        
     }
 }

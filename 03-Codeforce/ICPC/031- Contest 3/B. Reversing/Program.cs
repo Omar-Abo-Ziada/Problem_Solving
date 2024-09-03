@@ -58,7 +58,7 @@ namespace B._Reversing
 
             for (int i = 0; i < N; i++)
             {
-                Console.Write($"{nums[i] }");
+                Console.Write($"{nums[i]} ");
 
             }
         }
@@ -68,8 +68,8 @@ namespace B._Reversing
             for (int i = startIndex; i < (endEndex+1)/2; i++)
             {
                 int temp = nums[i];
-                nums[i] = nums[endEndex-i];
-                nums[endEndex-i] = temp;
+                nums[i] = nums[endEndex-i-1];
+                nums[endEndex-i-1] = temp;
             }
         }
     }
