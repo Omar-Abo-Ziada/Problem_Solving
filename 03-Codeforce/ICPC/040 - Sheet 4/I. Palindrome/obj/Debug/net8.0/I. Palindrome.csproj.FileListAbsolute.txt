@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\bin\Debug\net8.0\I. Palindrome.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\bin\Debug\net8.0\I. Palindrome.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\bin\Debug\net8.0\I. Palindrome.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\bin\Debug\net8.0\I. Palindrome.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\bin\Debug\net8.0\I. Palindrome.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\refint\I. Palindrome.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\I. Palindrome.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\I. Palindrome\obj\Debug\net8.0\ref\I. Palindrome.dll

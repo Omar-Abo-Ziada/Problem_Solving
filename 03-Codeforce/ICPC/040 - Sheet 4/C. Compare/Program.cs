@@ -1,4 +1,6 @@
-﻿namespace C._Compare
+﻿using System;
+
+namespace C_Compare
 {
     internal class Program
     {
@@ -7,13 +9,19 @@
             string X = Console.ReadLine();
             string Y = Console.ReadLine();
 
-            int minLenght = Math.Min(X.Length, Y.Length);
+            int result = string.Compare(X, Y);
 
-            int i = 0;
-
-            while (X[i] < Y[i])
+            if (result < 0)
             {
-                i++;
+                Console.WriteLine(X);
+            }
+            else if (result > 0)
+            {
+                Console.WriteLine(Y);
+            }
+            else
+            {
+                Console.WriteLine(X);
             }
         }
     }

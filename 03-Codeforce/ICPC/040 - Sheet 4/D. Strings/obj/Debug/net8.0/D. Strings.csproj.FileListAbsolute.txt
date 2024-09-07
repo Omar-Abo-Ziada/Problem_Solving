@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\bin\Debug\net8.0\D. Strings.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\bin\Debug\net8.0\D. Strings.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\bin\Debug\net8.0\D. Strings.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\bin\Debug\net8.0\D. Strings.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\bin\Debug\net8.0\D. Strings.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\refint\D. Strings.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\D. Strings.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\D. Strings\obj\Debug\net8.0\ref\D. Strings.dll

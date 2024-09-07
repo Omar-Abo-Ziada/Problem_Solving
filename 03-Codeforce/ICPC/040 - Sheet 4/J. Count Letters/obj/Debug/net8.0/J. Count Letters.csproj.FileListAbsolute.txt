@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\bin\Debug\net8.0\J. Count Letters.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\bin\Debug\net8.0\J. Count Letters.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\bin\Debug\net8.0\J. Count Letters.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\bin\Debug\net8.0\J. Count Letters.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\bin\Debug\net8.0\J. Count Letters.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\refint\J. Count Letters.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\J. Count Letters.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\J. Count Letters\obj\Debug\net8.0\ref\J. Count Letters.dll
