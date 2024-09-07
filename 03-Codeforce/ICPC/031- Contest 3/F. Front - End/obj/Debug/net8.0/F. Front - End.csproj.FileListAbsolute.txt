@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\bin\Debug\net8.0\F. Front - End.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\bin\Debug\net8.0\F. Front - End.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\bin\Debug\net8.0\F. Front - End.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\bin\Debug\net8.0\F. Front - End.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\bin\Debug\net8.0\F. Front - End.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\refint\F. Front - End.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\F. Front - End.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\F. Front - End\obj\Debug\net8.0\ref\F. Front - End.dll

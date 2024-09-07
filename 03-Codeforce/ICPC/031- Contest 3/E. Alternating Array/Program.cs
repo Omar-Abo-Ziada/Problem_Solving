@@ -52,6 +52,109 @@
    */ 
             #endregion
 
+            int N = int.Parse(Console.ReadLine());
+
+            int[] nums = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+
+            int[] numsCpy = new int[nums.Length];
+
+             Array.Copy(nums,numsCpy,nums.Length);
+
+            int minOpertaions = Math.Min(GetMin_AlternatingOperationsCountAlgorithm1(nums),GetMin_AlternatingOperationsCountAlgorithm2(numsCpy));
+
+            Console.WriteLine(minOpertaions);
+
+            //Console.WriteLine();
+
+            //Console.WriteLine($"Algorithm 1 : {GetMin_AlternatingOperationsCountAlgorithm1(nums)}");
+
+
+            //Console.WriteLine($"\n The Alternating Array aftert algorithm 1 :");
+
+            //foreach (var item in nums)
+            //{
+            //    Console.Write($"{item} ");
+            //}
+
+            //Console.WriteLine();
+
+            //Console.WriteLine();
+
+            //Console.WriteLine($"Algorithm 2 : {GetMin_AlternatingOperationsCountAlgorithm2(numsCpy)}");
+
+
+            //Console.WriteLine($"\n The Alternating Array aftert algorithm 1 :");
+
+            //foreach (var item in numsCpy)
+            //{
+            //    Console.Write($"{item} ");
+            //}
+        }
+
+        private static int GetMin_AlternatingOperationsCountAlgorithm1(int[] nums)
+        {
+            if(nums.Length == 1)
+            {
+                return 0;
+            }
+
+            int minOpertions = 0;
+
+            for (int i = 0; i < nums.Length-1; i++)
+            {
+                if (nums[i] > 0)
+                {
+                    if (nums[i+1] > 0)
+                    {
+                        nums[i+1] *= -1;
+                        minOpertions++;
+                    }
+                }
+                else
+                {
+                    if (nums[i + 1] < 0)
+                    {
+                        nums[i + 1] *= -1;
+                        minOpertions++;
+                    }
+                }
+            }
+
+            return minOpertions;
+        }
+
+        private static int GetMin_AlternatingOperationsCountAlgorithm2(int[] nums)
+        {
+            if (nums.Length == 1)
+            {
+                return 0;
+            }
+
+            nums[0] *= -1;
+
+            int minOpertions = 0;
+
+            for (int i = 0; i < nums.Length - 1; i++)
+            {
+                if (nums[i] > 0)
+                {
+                    if (nums[i + 1] > 0)
+                    {
+                        nums[i + 1] *= -1;
+                        minOpertions++;
+                    }
+                }
+                else
+                {
+                    if (nums[i + 1] < 0)
+                    {
+                        nums[i + 1] *= -1;
+                        minOpertions++;
+                    }
+                }
+            }
+
+            return minOpertions+1;
         }
     }
 }

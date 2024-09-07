@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\bin\Debug\net8.0\B. Let's use Getline.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\bin\Debug\net8.0\B. Let's use Getline.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\bin\Debug\net8.0\B. Let's use Getline.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\bin\Debug\net8.0\B. Let's use Getline.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\bin\Debug\net8.0\B. Let's use Getline.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\refint\B. Let's use Getline.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\B. Let's use Getline.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\B. Let's use Getline\obj\Debug\net8.0\ref\B. Let's use Getline.dll

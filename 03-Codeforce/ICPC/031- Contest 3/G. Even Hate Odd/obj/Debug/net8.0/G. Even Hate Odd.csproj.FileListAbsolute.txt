@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\bin\Debug\net8.0\G. Even Hate Odd.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\bin\Debug\net8.0\G. Even Hate Odd.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\bin\Debug\net8.0\G. Even Hate Odd.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\bin\Debug\net8.0\G. Even Hate Odd.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\bin\Debug\net8.0\G. Even Hate Odd.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\refint\G. Even Hate Odd.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\G. Even Hate Odd.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\031- contest 3\G. Even Hate Odd\obj\Debug\net8.0\ref\G. Even Hate Odd.dll

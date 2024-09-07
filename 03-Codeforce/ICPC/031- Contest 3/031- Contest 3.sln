@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Reversing", "B. Reversin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Choose Elements", "C. Choose Elements\C. Choose Elements.csproj", "{9DD7FE8C-5C33-4F51-9FA9-C45D22296571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D. Counting Elements", "D. Counting Elements\D. Counting Elements.csproj", "{C7E9D91D-C295-40D4-8029-2FC9CD161C0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Counting Elements", "D. Counting Elements\D. Counting Elements.csproj", "{C7E9D91D-C295-40D4-8029-2FC9CD161C0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E. Alternating Array", "E. Alternating Array\E. Alternating Array.csproj", "{E23CFCAF-5059-44BA-BC17-B2D7F9C4B6BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E. Alternating Array", "E. Alternating Array\E. Alternating Array.csproj", "{E23CFCAF-5059-44BA-BC17-B2D7F9C4B6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F. Front - End", "F. Front - End\F. Front - End.csproj", "{A38BF9E8-2CCB-4B89-A55E-27F6E5286608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G. Even Hate Odd", "G. Even Hate Odd\G. Even Hate Odd.csproj", "{691C4171-9D73-4FD8-82A6-FD06D26EBA05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{E23CFCAF-5059-44BA-BC17-B2D7F9C4B6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E23CFCAF-5059-44BA-BC17-B2D7F9C4B6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E23CFCAF-5059-44BA-BC17-B2D7F9C4B6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38BF9E8-2CCB-4B89-A55E-27F6E5286608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38BF9E8-2CCB-4B89-A55E-27F6E5286608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38BF9E8-2CCB-4B89-A55E-27F6E5286608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38BF9E8-2CCB-4B89-A55E-27F6E5286608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691C4171-9D73-4FD8-82A6-FD06D26EBA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691C4171-9D73-4FD8-82A6-FD06D26EBA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691C4171-9D73-4FD8-82A6-FD06D26EBA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691C4171-9D73-4FD8-82A6-FD06D26EBA05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
