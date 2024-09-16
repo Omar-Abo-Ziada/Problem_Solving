@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\bin\Debug\net8.0\N. Max Subsequence.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\bin\Debug\net8.0\N. Max Subsequence.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\bin\Debug\net8.0\N. Max Subsequence.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\bin\Debug\net8.0\N. Max Subsequence.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\bin\Debug\net8.0\N. Max Subsequence.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\refint\N. Max Subsequence.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\N. Max Subsequence.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\N. Max Subsequence\obj\Debug\net8.0\ref\N. Max Subsequence.dll

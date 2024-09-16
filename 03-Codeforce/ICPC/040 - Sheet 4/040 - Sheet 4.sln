@@ -9,21 +9,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Let's use Getline", "B. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Compare", "C. Compare\C. Compare.csproj", "{9ED1ECD5-E67F-4A88-80BA-92C7CDC89BF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D. Strings", "D. Strings\D. Strings.csproj", "{B036E0E7-B929-462F-91C9-6584A3E7CF0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Strings", "D. Strings\D. Strings.csproj", "{B036E0E7-B929-462F-91C9-6584A3E7CF0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E. Count", "E. Count\E. Count.csproj", "{CFAA2F2F-7BF5-4085-8236-F889E63A0AB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E. Count", "E. Count\E. Count.csproj", "{CFAA2F2F-7BF5-4085-8236-F889E63A0AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F. Way Too Long Words", "F. Way Too Long Words\F. Way Too Long Words.csproj", "{A08F51F1-614B-45F0-9B51-E1CA1E46BD6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F. Way Too Long Words", "F. Way Too Long Words\F. Way Too Long Words.csproj", "{A08F51F1-614B-45F0-9B51-E1CA1E46BD6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G. Conversion", "G. Conversion\G. Conversion.csproj", "{39E96430-34DD-47B3-BE1D-C5D7690831B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G. Conversion", "G. Conversion\G. Conversion.csproj", "{39E96430-34DD-47B3-BE1D-C5D7690831B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H. Good or Bad", "H. Good or Bad\H. Good or Bad.csproj", "{57FC02F6-C959-48FD-8172-EA1F868C8009}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H. Good or Bad", "H. Good or Bad\H. Good or Bad.csproj", "{57FC02F6-C959-48FD-8172-EA1F868C8009}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I. Palindrome", "I. Palindrome\I. Palindrome.csproj", "{C69091CD-CEF7-43C4-A2AB-1D4D0D8122B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I. Palindrome", "I. Palindrome\I. Palindrome.csproj", "{C69091CD-CEF7-43C4-A2AB-1D4D0D8122B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J. Count Letters", "J. Count Letters\J. Count Letters.csproj", "{B92E1558-37F8-4DF5-8BA1-817201FE00B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "J. Count Letters", "J. Count Letters\J. Count Letters.csproj", "{B92E1558-37F8-4DF5-8BA1-817201FE00B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K. I Love strings", "K. I Love strings\K. I Love strings.csproj", "{38CD5EE2-D9B2-467F-9BF8-71E757F8E7A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K. I Love strings", "K. I Love strings\K. I Love strings.csproj", "{38CD5EE2-D9B2-467F-9BF8-71E757F8E7A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L. String Functions", "L. String Functions\L. String Functions.csproj", "{528CC3F7-0885-41EB-AEFC-65B9D3CA8BCC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M. Subsequence String", "M. Subsequence String\M. Subsequence String.csproj", "{6AA52410-7311-43B4-8218-921CA2E07CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N. Max Subsequence", "N. Max Subsequence\N. Max Subsequence.csproj", "{F0DB263A-4996-47AC-8228-A7C3422E8E8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{38CD5EE2-D9B2-467F-9BF8-71E757F8E7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38CD5EE2-D9B2-467F-9BF8-71E757F8E7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38CD5EE2-D9B2-467F-9BF8-71E757F8E7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528CC3F7-0885-41EB-AEFC-65B9D3CA8BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528CC3F7-0885-41EB-AEFC-65B9D3CA8BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528CC3F7-0885-41EB-AEFC-65B9D3CA8BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528CC3F7-0885-41EB-AEFC-65B9D3CA8BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA52410-7311-43B4-8218-921CA2E07CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA52410-7311-43B4-8218-921CA2E07CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA52410-7311-43B4-8218-921CA2E07CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA52410-7311-43B4-8218-921CA2E07CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DB263A-4996-47AC-8228-A7C3422E8E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DB263A-4996-47AC-8228-A7C3422E8E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DB263A-4996-47AC-8228-A7C3422E8E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DB263A-4996-47AC-8228-A7C3422E8E8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

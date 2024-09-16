@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\bin\Debug\net8.0\M. Subsequence String.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\bin\Debug\net8.0\M. Subsequence String.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\bin\Debug\net8.0\M. Subsequence String.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\bin\Debug\net8.0\M. Subsequence String.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\bin\Debug\net8.0\M. Subsequence String.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\refint\M. Subsequence String.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\M. Subsequence String.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\M. Subsequence String\obj\Debug\net8.0\ref\M. Subsequence String.dll

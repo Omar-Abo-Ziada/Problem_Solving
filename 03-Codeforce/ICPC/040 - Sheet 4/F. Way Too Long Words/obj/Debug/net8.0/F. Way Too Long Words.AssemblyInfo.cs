@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("F. Way Too Long Words")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8666bc3107f3497b3ef335e24e60ba2fd51fcecf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64609745658d0becbe0f96861700c073bdd2e73d")]
 [assembly: System.Reflection.AssemblyProductAttribute("F. Way Too Long Words")]
 [assembly: System.Reflection.AssemblyTitleAttribute("F. Way Too Long Words")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
