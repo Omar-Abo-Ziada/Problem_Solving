@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\bin\Debug\net8.0\Q. Reverse Words.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\bin\Debug\net8.0\Q. Reverse Words.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\bin\Debug\net8.0\Q. Reverse Words.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\bin\Debug\net8.0\Q. Reverse Words.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\bin\Debug\net8.0\Q. Reverse Words.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\refint\Q. Reverse Words.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\Q. Reverse Words.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\Q. Reverse Words\obj\Debug\net8.0\ref\Q. Reverse Words.dll
