@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Create A New String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86f2f339af1f11d601ec3d3e0fa72a0781a1ece")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d6a3ebeb1eca0c5c5b4786ab809576bbe7e7a8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Create A New String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Create A New String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -31,15 +31,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M. Subsequence String", "M.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N. Max Subsequence", "N. Max Subsequence\N. Max Subsequence.csproj", "{F0DB263A-4996-47AC-8228-A7C3422E8E8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. Sort String", "O. Sort String\O. Sort String.csproj", "{6EF7845A-75D8-4384-9520-57304CB94F1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O. Sort String", "O. Sort String\O. Sort String.csproj", "{6EF7845A-75D8-4384-9520-57304CB94F1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P. Count Words", "P. Count Words\P. Count Words.csproj", "{122278C3-7097-4FA9-B6AA-3E7C92E1182E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Count Words", "P. Count Words\P. Count Words.csproj", "{122278C3-7097-4FA9-B6AA-3E7C92E1182E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q. Reverse Words", "Q. Reverse Words\Q. Reverse Words.csproj", "{522E8608-FB3C-4BD3-83CA-0D2F17F30FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q. Reverse Words", "Q. Reverse Words\Q. Reverse Words.csproj", "{522E8608-FB3C-4BD3-83CA-0D2F17F30FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R. String Score", "R. String Score\R. String Score.csproj", "{615E3D25-25A9-44EC-9A46-5D60F067AFE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. String Score", "R. String Score\R. String Score.csproj", "{615E3D25-25A9-44EC-9A46-5D60F067AFE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S. Max Split", "S. Max Split\S. Max Split.csproj", "{C1CF4625-412C-43DB-B660-E86248FB7CAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S. Max Split", "S. Max Split\S. Max Split.csproj", "{C1CF4625-412C-43DB-B660-E86248FB7CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. URL", "T. URL\T. URL.csproj", "{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. New Words", "U. New Words\U. New Words.csproj", "{6BE30885-CBEC-43FB-A8D2-03251B496307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V. Replace Word", "V. Replace Word\V. Replace Word.csproj", "{E15259AB-7C54-40C3-B36D-D0F4F658C02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W. Encrypt & Decrypt Message", "W. Encrypt & Decrypt Message\W. Encrypt & Decrypt Message.csproj", "{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +131,22 @@ Global
 		{C1CF4625-412C-43DB-B660-E86248FB7CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1CF4625-412C-43DB-B660-E86248FB7CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1CF4625-412C-43DB-B660-E86248FB7CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE30885-CBEC-43FB-A8D2-03251B496307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE30885-CBEC-43FB-A8D2-03251B496307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE30885-CBEC-43FB-A8D2-03251B496307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE30885-CBEC-43FB-A8D2-03251B496307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15259AB-7C54-40C3-B36D-D0F4F658C02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15259AB-7C54-40C3-B36D-D0F4F658C02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15259AB-7C54-40C3-B36D-D0F4F658C02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15259AB-7C54-40C3-B36D-D0F4F658C02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

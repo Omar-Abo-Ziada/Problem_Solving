@@ -3,27 +3,43 @@
   "WorkspaceRootPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}|W. Encrypt \u0026 Decrypt Message\\W. Encrypt \u0026 Decrypt Message.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\w. encrypt \u0026 decrypt message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}|W. Encrypt \u0026 Decrypt Message\\W. Encrypt \u0026 Decrypt Message.csproj|solutionrelative:w. encrypt \u0026 decrypt message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15259AB-7C54-40C3-B36D-D0F4F658C02A}|V. Replace Word\\V. Replace Word.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\v. replace word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15259AB-7C54-40C3-B36D-D0F4F658C02A}|V. Replace Word\\V. Replace Word.csproj|solutionrelative:v. replace word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}|T. URL\\T. URL.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\t. url\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}|T. URL\\T. URL.csproj|solutionrelative:t. url\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE30885-CBEC-43FB-A8D2-03251B496307}|U. New Words\\U. New Words.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\u. new words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE30885-CBEC-43FB-A8D2-03251B496307}|U. New Words\\U. New Words.csproj|solutionrelative:u. new words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1CF4625-412C-43DB-B660-E86248FB7CAD}|S. Max Split\\S. Max Split.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\s. max split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1CF4625-412C-43DB-B660-E86248FB7CAD}|S. Max Split\\S. Max Split.csproj|solutionrelative:s. max split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615E3D25-25A9-44EC-9A46-5D60F067AFE3}|R. String Score\\R. String Score.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\r. string score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{615E3D25-25A9-44EC-9A46-5D60F067AFE3}|R. String Score\\R. String Score.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\r. string score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{615E3D25-25A9-44EC-9A46-5D60F067AFE3}|R. String Score\\R. String Score.csproj|solutionrelative:r. string score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522E8608-FB3C-4BD3-83CA-0D2F17F30FB7}|Q. Reverse Words\\Q. Reverse Words.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\q. reverse words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{522E8608-FB3C-4BD3-83CA-0D2F17F30FB7}|Q. Reverse Words\\Q. Reverse Words.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\q. reverse words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{522E8608-FB3C-4BD3-83CA-0D2F17F30FB7}|Q. Reverse Words\\Q. Reverse Words.csproj|solutionrelative:q. reverse words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{122278C3-7097-4FA9-B6AA-3E7C92E1182E}|P. Count Words\\P. Count Words.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\p. count words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{122278C3-7097-4FA9-B6AA-3E7C92E1182E}|P. Count Words\\P. Count Words.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\p. count words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{122278C3-7097-4FA9-B6AA-3E7C92E1182E}|P. Count Words\\P. Count Words.csproj|solutionrelative:p. count words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF7845A-75D8-4384-9520-57304CB94F1C}|O. Sort String\\O. Sort String.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\o. sort string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EF7845A-75D8-4384-9520-57304CB94F1C}|O. Sort String\\O. Sort String.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\o. sort string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EF7845A-75D8-4384-9520-57304CB94F1C}|O. Sort String\\O. Sort String.csproj|solutionrelative:o. sort string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0DB263A-4996-47AC-8228-A7C3422E8E8D}|N. Max Subsequence\\N. Max Subsequence.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\03-codeforce\\icpc\\040 - sheet 4\\n. max subsequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0DB263A-4996-47AC-8228-A7C3422E8E8D}|N. Max Subsequence\\N. Max Subsequence.csproj|D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\n. max subsequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0DB263A-4996-47AC-8228-A7C3422E8E8D}|N. Max Subsequence\\N. Max Subsequence.csproj|solutionrelative:n. max subsequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -108,31 +124,82 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\S. Max Split\\Program.cs",
-              "RelativeDocumentMoniker": "S. Max Split\\Program.cs",
-              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\S. Max Split\\Program.cs",
-              "RelativeToolTip": "S. Max Split\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\W. Encrypt \u0026 Decrypt Message\\Program.cs",
+              "RelativeDocumentMoniker": "W. Encrypt \u0026 Decrypt Message\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\W. Encrypt \u0026 Decrypt Message\\Program.cs",
+              "RelativeToolTip": "W. Encrypt \u0026 Decrypt Message\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T19:53:50.863Z",
+              "WhenOpened": "2024-09-23T20:16:06.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\R. String Score\\Program.cs",
-              "RelativeDocumentMoniker": "R. String Score\\Program.cs",
-              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\R. String Score\\Program.cs",
-              "RelativeToolTip": "R. String Score\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAAAAAAAA",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\V. Replace Word\\Program.cs",
+              "RelativeDocumentMoniker": "V. Replace Word\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\V. Replace Word\\Program.cs",
+              "RelativeToolTip": "V. Replace Word\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T18:53:48.383Z",
+              "WhenOpened": "2024-09-23T20:01:55.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\U. New Words\\Program.cs",
+              "RelativeDocumentMoniker": "U. New Words\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\U. New Words\\Program.cs",
+              "RelativeToolTip": "U. New Words\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:37:54.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\T. URL\\Program.cs",
+              "RelativeDocumentMoniker": "T. URL\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\T. URL\\Program.cs",
+              "RelativeToolTip": "T. URL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:21:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\S. Max Split\\Program.cs",
+              "RelativeDocumentMoniker": "S. Max Split\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\S. Max Split\\Program.cs",
+              "RelativeToolTip": "S. Max Split\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:53:50.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\R. String Score\\Program.cs",
+              "RelativeDocumentMoniker": "R. String Score\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\R. String Score\\Program.cs",
+              "RelativeToolTip": "R. String Score\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:53:48.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\Q. Reverse Words\\Program.cs",
               "RelativeDocumentMoniker": "Q. Reverse Words\\Program.cs",
@@ -140,12 +207,11 @@
               "RelativeToolTip": "Q. Reverse Words\\Program.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAwwFkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T18:26:51.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T18:26:51.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\P. Count Words\\Program.cs",
               "RelativeDocumentMoniker": "P. Count Words\\Program.cs",
@@ -153,12 +219,11 @@
               "RelativeToolTip": "P. Count Words\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAwBEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T18:03:27.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T18:03:27.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\O. Sort String\\Program.cs",
               "RelativeDocumentMoniker": "O. Sort String\\Program.cs",
@@ -171,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\N. Max Subsequence\\Program.cs",
               "RelativeDocumentMoniker": "N. Max Subsequence\\Program.cs",
@@ -179,12 +244,11 @@
               "RelativeToolTip": "N. Max Subsequence\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:57:12.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T19:57:12.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\M. Subsequence String\\Program.cs",
               "RelativeDocumentMoniker": "M. Subsequence String\\Program.cs",
@@ -197,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\L. String Functions\\Program.cs",
               "RelativeDocumentMoniker": "L. String Functions\\Program.cs",
@@ -205,12 +269,11 @@
               "RelativeToolTip": "L. String Functions\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T17:50:30.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T17:50:30.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\K. I Love strings\\Program.cs",
               "RelativeDocumentMoniker": "K. I Love strings\\Program.cs",
@@ -223,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\J. Count Letters\\Program.cs",
               "RelativeDocumentMoniker": "J. Count Letters\\Program.cs",
@@ -231,12 +294,11 @@
               "RelativeToolTip": "J. Count Letters\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:52:26.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:52:26.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\I. Palindrome\\Program.cs",
               "RelativeDocumentMoniker": "I. Palindrome\\Program.cs",
@@ -244,12 +306,11 @@
               "RelativeToolTip": "I. Palindrome\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAiwB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:39:57.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:39:57.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\H. Good or Bad\\Program.cs",
               "RelativeDocumentMoniker": "H. Good or Bad\\Program.cs",
@@ -257,12 +318,11 @@
               "RelativeToolTip": "H. Good or Bad\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwDMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:20:24.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:20:24.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\G. Conversion\\Program.cs",
               "RelativeDocumentMoniker": "G. Conversion\\Program.cs",
@@ -270,12 +330,11 @@
               "RelativeToolTip": "G. Conversion\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAkwCEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:11:32.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:11:32.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\F. Way Too Long Words\\Program.cs",
               "RelativeDocumentMoniker": "F. Way Too Long Words\\Program.cs",
@@ -283,12 +342,11 @@
               "RelativeToolTip": "F. Way Too Long Words\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAgwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:05:08.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:05:08.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\E. Count\\Program.cs",
               "RelativeDocumentMoniker": "E. Count\\Program.cs",
@@ -301,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\D. Strings\\Program.cs",
               "RelativeDocumentMoniker": "D. Strings\\Program.cs",
@@ -309,12 +367,11 @@
               "RelativeToolTip": "D. Strings\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:51:46.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T18:51:46.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\C. Compare\\Program.cs",
               "RelativeDocumentMoniker": "C. Compare\\Program.cs",
@@ -322,12 +379,11 @@
               "RelativeToolTip": "C. Compare\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:26:31.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T17:26:31.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\B. Let\u0027s use Getline\\Program.cs",
               "RelativeDocumentMoniker": "B. Let\u0027s use Getline\\Program.cs",
@@ -340,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\03-Codeforce\\ICPC\\040 - Sheet 4\\A. Create A New String\\Program.cs",
               "RelativeDocumentMoniker": "A. Create A New String\\Program.cs",
@@ -348,8 +404,7 @@
               "RelativeToolTip": "A. Create A New String\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:15:51.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T17:15:51.227Z"
             }
           ]
         },
