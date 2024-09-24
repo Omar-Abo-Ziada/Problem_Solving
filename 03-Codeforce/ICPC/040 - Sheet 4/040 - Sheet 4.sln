@@ -41,13 +41,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. String Score", "R. Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S. Max Split", "S. Max Split\S. Max Split.csproj", "{C1CF4625-412C-43DB-B660-E86248FB7CAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. URL", "T. URL\T. URL.csproj", "{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T. URL", "T. URL\T. URL.csproj", "{7CEC8E10-CFA0-426D-B7C2-25F5FB675B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. New Words", "U. New Words\U. New Words.csproj", "{6BE30885-CBEC-43FB-A8D2-03251B496307}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U. New Words", "U. New Words\U. New Words.csproj", "{6BE30885-CBEC-43FB-A8D2-03251B496307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V. Replace Word", "V. Replace Word\V. Replace Word.csproj", "{E15259AB-7C54-40C3-B36D-D0F4F658C02A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V. Replace Word", "V. Replace Word\V. Replace Word.csproj", "{E15259AB-7C54-40C3-B36D-D0F4F658C02A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W. Encrypt & Decrypt Message", "W. Encrypt & Decrypt Message\W. Encrypt & Decrypt Message.csproj", "{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W. Encrypt & Decrypt Message", "W. Encrypt & Decrypt Message\W. Encrypt & Decrypt Message.csproj", "{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X. Comparison", "X. Comparison\X. Comparison.csproj", "{F23115A9-C3CB-4AFC-A3B4-EA16E2212377}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{221650AC-9C77-40EB-AA13-BCB9D91E1AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23115A9-C3CB-4AFC-A3B4-EA16E2212377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23115A9-C3CB-4AFC-A3B4-EA16E2212377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23115A9-C3CB-4AFC-A3B4-EA16E2212377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23115A9-C3CB-4AFC-A3B4-EA16E2212377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

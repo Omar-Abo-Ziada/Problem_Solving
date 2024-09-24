@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\bin\Debug\net8.0\W. Encrypt & Decrypt Message.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\bin\Debug\net8.0\W. Encrypt & Decrypt Message.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\bin\Debug\net8.0\W. Encrypt & Decrypt Message.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\bin\Debug\net8.0\W. Encrypt & Decrypt Message.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\bin\Debug\net8.0\W. Encrypt & Decrypt Message.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\refint\W. Encrypt & Decrypt Message.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\W. Encrypt & Decrypt Message.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\03-Codeforce\ICPC\040 - Sheet 4\W. Encrypt & Decrypt Message\obj\Debug\net8.0\ref\W. Encrypt & Decrypt Message.dll

@@ -59,7 +59,62 @@
             //Egypt  
             #endregion
 
+            string Key = "PgEfTYaWGHjDAmxQqFLRpCJBownyUKZXkbvzIdshurMilNSVOtec#@_!=.+-*/";
 
+            string Original = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+
+            int option = int.Parse(Console.ReadLine());
+
+            string word = Console.ReadLine();
+
+            if(option == 1)
+            {
+                Encrypt(Key, Original, word);
+            }
+            else
+            {
+                Decrypt(Key, Original, word);
+            }
+
+
+        }
+
+        private static void Encrypt(string Key , string Original , string word)
+        {
+            char[] wordArr = word.ToCharArray();
+            char[] keyArr = Key.ToCharArray();
+
+            char[] wordArrEncrypted = new char[wordArr.Length];
+
+            int index ;
+
+            for (int i = 0; i < wordArr.Length; i++)
+            {
+                index = Original.IndexOf(word[i]);
+
+                wordArrEncrypted[i] = keyArr[index];
+            }
+
+            Console.WriteLine(new string(wordArrEncrypted));
+        }
+
+        private static void Decrypt(string Key, string Original, string word)
+        {
+            char[] wordArr = word.ToCharArray();
+            char[] keyArr = Key.ToCharArray();
+
+            char[] wordArrEncrypted = new char[wordArr.Length];
+
+            int index;
+
+            for (int i = 0; i < wordArr.Length; i++)
+            {
+                index = Key.IndexOf(word[i]);
+
+                wordArrEncrypted[i] = Original[index];
+            }
+
+            Console.WriteLine(new string(wordArrEncrypted));
         }
     }
 }
