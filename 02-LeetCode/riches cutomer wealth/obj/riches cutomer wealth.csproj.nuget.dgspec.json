@@ -13,8 +13,12 @@
         "packagesPath": "C:\\Users\\oahme\\.nuget\\packages\\",
         "outputPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\riches cutomer wealth\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\oahme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
