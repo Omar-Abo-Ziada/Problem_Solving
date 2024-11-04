@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\bin\Debug\net8.0\Ransome Note.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\bin\Debug\net8.0\Ransome Note.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\bin\Debug\net8.0\Ransome Note.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\bin\Debug\net8.0\Ransome Note.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\bin\Debug\net8.0\Ransome Note.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\refint\Ransome Note.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\Ransome Note.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Ransome Note\obj\Debug\net8.0\ref\Ransome Note.dll

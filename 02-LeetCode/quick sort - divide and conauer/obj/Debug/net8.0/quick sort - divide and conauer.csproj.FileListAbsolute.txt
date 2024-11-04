@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\bin\Debug\net8.0\quick sort - divide and conauer.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\bin\Debug\net8.0\quick sort - divide and conauer.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\bin\Debug\net8.0\quick sort - divide and conauer.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\bin\Debug\net8.0\quick sort - divide and conauer.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\bin\Debug\net8.0\quick sort - divide and conauer.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\refint\quick sort - divide and conauer.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\quick sort - divide and conauer.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\quick sort - divide and conauer\obj\Debug\net8.0\ref\quick sort - divide and conauer.dll

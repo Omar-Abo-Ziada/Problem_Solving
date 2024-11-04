@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Product of Array excpet self")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9df7d794a23a2c2d43b36eed0c782a7ab9ae4217")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+009432ab2331ea9d48584e3179d11ffa4a8c4af4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Product of Array excpet self")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Product of Array excpet self")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

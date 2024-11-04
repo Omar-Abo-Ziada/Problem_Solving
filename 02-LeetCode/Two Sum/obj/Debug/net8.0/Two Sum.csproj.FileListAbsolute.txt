@@ -12,3 +12,18 @@ O:\Software_Courses\ProblemSolving\Day 4\Two Sum\obj\Debug\net8.0\refint\Two Sum
 O:\Software_Courses\ProblemSolving\Day 4\Two Sum\obj\Debug\net8.0\Two Sum.pdb
 O:\Software_Courses\ProblemSolving\Day 4\Two Sum\obj\Debug\net8.0\Two Sum.genruntimeconfig.cache
 O:\Software_Courses\ProblemSolving\Day 4\Two Sum\obj\Debug\net8.0\ref\Two Sum.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\refint\Two Sum.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Two Sum\obj\Debug\net8.0\ref\Two Sum.dll

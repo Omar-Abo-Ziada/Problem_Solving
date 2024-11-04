@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\bin\Debug\net8.0\number of steps to reduce input to zero.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\bin\Debug\net8.0\number of steps to reduce input to zero.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\bin\Debug\net8.0\number of steps to reduce input to zero.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\bin\Debug\net8.0\number of steps to reduce input to zero.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\bin\Debug\net8.0\number of steps to reduce input to zero.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\refint\number of steps to reduce input to zero.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\number of steps to reduce input to zero.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\number of steps to reduce input to zero\obj\Debug\net8.0\ref\number of steps to reduce input to zero.dll
