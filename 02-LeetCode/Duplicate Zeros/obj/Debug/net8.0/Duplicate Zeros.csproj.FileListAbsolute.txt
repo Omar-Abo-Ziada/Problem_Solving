@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\bin\Debug\net8.0\Duplicate Zeros.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\bin\Debug\net8.0\Duplicate Zeros.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\bin\Debug\net8.0\Duplicate Zeros.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\bin\Debug\net8.0\Duplicate Zeros.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\bin\Debug\net8.0\Duplicate Zeros.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\refint\Duplicate Zeros.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\Duplicate Zeros.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Duplicate Zeros\obj\Debug\net8.0\ref\Duplicate Zeros.dll
