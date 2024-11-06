@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Merge Sorted Array/1.0.0": {
+        "runtime": {
+          "Merge Sorted Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Merge Sorted Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
