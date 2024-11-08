@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindNumbers", "FindNumbers\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Squares of a Sorted Array", "Squares of a Sorted Array\Squares of a Sorted Array.csproj", "{5157301D-E110-4F86-8C31-9A95CDCDAEB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate Zeros", "Duplicate Zeros\Duplicate Zeros.csproj", "{5ADC9680-950F-4D77-BAF3-DE2C0E6350B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duplicate Zeros", "Duplicate Zeros\Duplicate Zeros.csproj", "{5ADC9680-950F-4D77-BAF3-DE2C0E6350B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sorted Array", "Merge Sorted Array\Merge Sorted Array.csproj", "{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Sorted Array", "Merge Sorted Array\Merge Sorted Array.csproj", "{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Element", "Remove Element\Remove Element.csproj", "{F5BC8932-9052-45F7-A2DB-B18F230873C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,18 @@ Global
 		{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}.Release|x64.Build.0 = Release|Any CPU
 		{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}.Release|x86.ActiveCfg = Release|Any CPU
 		{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}.Release|x86.Build.0 = Release|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Debug|x64.Build.0 = Debug|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Debug|x86.Build.0 = Debug|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Release|x64.ActiveCfg = Release|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Release|x64.Build.0 = Release|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Release|x86.ActiveCfg = Release|Any CPU
+		{F5BC8932-9052-45F7-A2DB-B18F230873C1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
