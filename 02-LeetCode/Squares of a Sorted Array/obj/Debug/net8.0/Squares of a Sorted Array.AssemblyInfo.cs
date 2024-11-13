@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Squares of a Sorted Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12fe0c6c848e609dc88cfbc0ca6d8eaea4ba6a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a3ccb9c8d26a5b491cef3db9fbd25e963a712f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Squares of a Sorted Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Squares of a Sorted Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
