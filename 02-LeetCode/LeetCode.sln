@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duplicate Zeros", "Duplicat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Sorted Array", "Merge Sorted Array\Merge Sorted Array.csproj", "{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Element", "Remove Element\Remove Element.csproj", "{F5BC8932-9052-45F7-A2DB-B18F230873C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Element", "Remove Element\Remove Element.csproj", "{F5BC8932-9052-45F7-A2DB-B18F230873C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates", "Remove Duplicates\Remove Duplicates.csproj", "{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Duplicates", "Remove Duplicates\Remove Duplicates.csproj", "{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check If N and Its Double Exist", "Check If N and Its Double Exist\Check If N and Its Double Exist.csproj", "{47336FF4-3C59-450B-B93E-ADA9D38D12D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -265,6 +267,18 @@ Global
 		{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}.Release|x64.Build.0 = Release|Any CPU
 		{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}.Release|x86.ActiveCfg = Release|Any CPU
 		{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}.Release|x86.Build.0 = Release|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Debug|x64.Build.0 = Debug|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Debug|x86.Build.0 = Debug|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Release|x64.ActiveCfg = Release|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Release|x64.Build.0 = Release|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Release|x86.ActiveCfg = Release|Any CPU
+		{47336FF4-3C59-450B-B93E-ADA9D38D12D6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

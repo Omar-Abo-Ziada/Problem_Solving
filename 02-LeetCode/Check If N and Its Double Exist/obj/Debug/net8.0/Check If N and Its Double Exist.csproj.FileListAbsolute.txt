@@ -1,0 +1,15 @@
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\bin\Debug\net8.0\Check If N and Its Double Exist.exe
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\bin\Debug\net8.0\Check If N and Its Double Exist.deps.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\bin\Debug\net8.0\Check If N and Its Double Exist.runtimeconfig.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\bin\Debug\net8.0\Check If N and Its Double Exist.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\bin\Debug\net8.0\Check If N and Its Double Exist.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.AssemblyInfoInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.AssemblyInfo.cs
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.csproj.CoreCompileInputs.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.sourcelink.json
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\refint\Check If N and Its Double Exist.dll
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.pdb
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\Check If N and Its Double Exist.genruntimeconfig.cache
+D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Check If N and Its Double Exist\obj\Debug\net8.0\ref\Check If N and Its Double Exist.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Running sum of 1d array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7b79b5fd9f8814a2454000a3e77a1e422f7a86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12fe0c6c848e609dc88cfbc0ca6d8eaea4ba6a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Running sum of 1d array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Running sum of 1d array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
