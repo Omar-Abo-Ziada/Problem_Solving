@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check If N and Its Double E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Mountain Array", "Valid Mountain Array\Valid Mountain Array.csproj", "{3A9AE013-BCAB-4A87-88D5-B6A478DCCA70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace Elements with Greatest Element on Right Side", "Replace Elements with Greatest Element on Right Side\Replace Elements with Greatest Element on Right Side.csproj", "{3A3A3D45-3F01-419D-95AB-D76011F787B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -293,6 +295,18 @@ Global
 		{3A9AE013-BCAB-4A87-88D5-B6A478DCCA70}.Release|x64.Build.0 = Release|Any CPU
 		{3A9AE013-BCAB-4A87-88D5-B6A478DCCA70}.Release|x86.ActiveCfg = Release|Any CPU
 		{3A9AE013-BCAB-4A87-88D5-B6A478DCCA70}.Release|x86.Build.0 = Release|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Debug|x86.Build.0 = Debug|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Release|x64.Build.0 = Release|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Release|x86.ActiveCfg = Release|Any CPU
+		{3A3A3D45-3F01-419D-95AB-D76011F787B7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
