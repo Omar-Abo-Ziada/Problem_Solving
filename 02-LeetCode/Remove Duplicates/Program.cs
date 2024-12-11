@@ -19,7 +19,7 @@
 
         static public int RemoveDuplicates(int[] nums)
         {
-            if(nums.Length == 0) return 0;
+            if (nums is null || nums.Length == 0) return 0;
 
             int k = nums.Length;
             int prevItem = nums[0];
@@ -28,7 +28,7 @@
             {
                 if (nums[i] == prevItem)
                 {
-                    RemoveAtIndex(nums, i );
+                    RemoveAtIndex(nums, i);
                     k--;
                     i--;
                 }
@@ -49,7 +49,5 @@
 
             nums[nums.Length - 1] = -1;
         }
-
-
     }
 }

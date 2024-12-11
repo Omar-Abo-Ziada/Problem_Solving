@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Duplicate Zeros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0e129a382ce416e908b773669a306313cf5f9e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81e4f7c2d94b0716c170b3cd8fe5c0d0b0478b43")]
 [assembly: System.Reflection.AssemblyProductAttribute("Duplicate Zeros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Duplicate Zeros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

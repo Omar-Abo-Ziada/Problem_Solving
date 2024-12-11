@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B67B86-2E39-4281-9F3B-224235242DDB}|Move Zeroes\\Move Zeroes.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\move zeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B67B86-2E39-4281-9F3B-224235242DDB}|Move Zeroes\\Move Zeroes.csproj|solutionrelative:move zeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C81AD5-E0A5-483D-B0CD-0584AC33EEC1}|Remove Duplicates Better\\Remove Duplicates Better.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\remove duplicates better\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C81AD5-E0A5-483D-B0CD-0584AC33EEC1}|Remove Duplicates Better\\Remove Duplicates Better.csproj|solutionrelative:remove duplicates better\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A3D45-3F01-419D-95AB-D76011F787B7}|Replace Elements with Greatest Element on Right Side\\Replace Elements with Greatest Element on Right Side.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\replace elements with greatest element on right side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A3D45-3F01-419D-95AB-D76011F787B7}|Replace Elements with Greatest Element on Right Side\\Replace Elements with Greatest Element on Right Side.csproj|solutionrelative:replace elements with greatest element on right side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}|Remove Duplicates\\Remove Duplicates.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\remove duplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}|Remove Duplicates\\Remove Duplicates.csproj|solutionrelative:remove duplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}|Remove Duplicates\\Remove Duplicates.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\remove duplicates\\remove duplicates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15667BA0-6980-4BB2-87FF-A82FD9FD16C4}|Remove Duplicates\\Remove Duplicates.csproj|solutionrelative:remove duplicates\\remove duplicates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9AE013-BCAB-4A87-88D5-B6A478DCCA70}|Valid Mountain Array\\Valid Mountain Array.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\valid mountain array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9AE013-BCAB-4A87-88D5-B6A478DCCA70}|Valid Mountain Array\\Valid Mountain Array.csproj|solutionrelative:valid mountain array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47336FF4-3C59-450B-B93E-ADA9D38D12D6}|Check If N and Its Double Exist\\Check If N and Its Double Exist.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\check if n and its double exist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47336FF4-3C59-450B-B93E-ADA9D38D12D6}|Check If N and Its Double Exist\\Check If N and Its Double Exist.csproj|solutionrelative:check if n and its double exist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC8932-9052-45F7-A2DB-B18F230873C1}|Remove Element\\Remove Element.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC8932-9052-45F7-A2DB-B18F230873C1}|Remove Element\\Remove Element.csproj|solutionrelative:remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}|Merge Sorted Array\\Merge Sorted Array.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\merge sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE3E460-CDD4-4CDF-9C09-88C909C910B6}|Merge Sorted Array\\Merge Sorted Array.csproj|solutionrelative:merge sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADC9680-950F-4D77-BAF3-DE2C0E6350B0}|Duplicate Zeros\\Duplicate Zeros.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\duplicate zeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADC9680-950F-4D77-BAF3-DE2C0E6350B0}|Duplicate Zeros\\Duplicate Zeros.csproj|solutionrelative:duplicate zeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5157301D-E110-4F86-8C31-9A95CDCDAEB7}|Squares of a Sorted Array\\Squares of a Sorted Array.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\squares of a sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5157301D-E110-4F86-8C31-9A95CDCDAEB7}|Squares of a Sorted Array\\Squares of a Sorted Array.csproj|solutionrelative:squares of a sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67193EDE-2CA1-4981-8176-940E1196AA8E}|FindNumbers\\FindNumbers.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\findnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67193EDE-2CA1-4981-8176-940E1196AA8E}|FindNumbers\\FindNumbers.csproj|solutionrelative:findnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8CAEA6-8418-420E-BAFD-70DB48356A6B}|FindMaxConsecutiveOnes\\FindMaxConsecutiveOnes.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\findmaxconsecutiveones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8CAEA6-8418-420E-BAFD-70DB48356A6B}|FindMaxConsecutiveOnes\\FindMaxConsecutiveOnes.csproj|solutionrelative:findmaxconsecutiveones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CDFA6C-1A0E-4CDF-9CE3-052DE454F34E}|Ransome Note\\Ransome Note.csproj|d:\\software_courses\\00-my problem solving\\problem_solving\\02-leetcode\\ransome note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CDFA6C-1A0E-4CDF-9CE3-052DE454F34E}|Ransome Note\\Ransome Note.csproj|solutionrelative:ransome note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Move Zeroes\\Program.cs",
+              "RelativeDocumentMoniker": "Move Zeroes\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Move Zeroes\\Program.cs",
+              "RelativeToolTip": "Move Zeroes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:09:25.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Duplicates Better\\Program.cs",
+              "RelativeDocumentMoniker": "Remove Duplicates Better\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Duplicates Better\\Program.cs",
+              "RelativeToolTip": "Remove Duplicates Better\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:45:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Remove Duplicates.csproj",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Duplicates\\Remove Duplicates.csproj",
+              "RelativeDocumentMoniker": "Remove Duplicates\\Remove Duplicates.csproj",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Duplicates\\Remove Duplicates.csproj",
+              "RelativeToolTip": "Remove Duplicates\\Remove Duplicates.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T19:07:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Replace Elements with Greatest Element on Right Side\\Program.cs",
+              "RelativeDocumentMoniker": "Replace Elements with Greatest Element on Right Side\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Replace Elements with Greatest Element on Right Side\\Program.cs",
+              "RelativeToolTip": "Replace Elements with Greatest Element on Right Side\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:07:32.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Valid Mountain Array\\Program.cs",
+              "RelativeDocumentMoniker": "Valid Mountain Array\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Valid Mountain Array\\Program.cs",
+              "RelativeToolTip": "Valid Mountain Array\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:32:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Check If N and Its Double Exist\\Program.cs",
+              "RelativeDocumentMoniker": "Check If N and Its Double Exist\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Check If N and Its Double Exist\\Program.cs",
+              "RelativeToolTip": "Check If N and Its Double Exist\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:53:04.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Duplicates\\Program.cs",
+              "RelativeDocumentMoniker": "Remove Duplicates\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Duplicates\\Program.cs",
+              "RelativeToolTip": "Remove Duplicates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:26:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Element\\Program.cs",
+              "RelativeDocumentMoniker": "Remove Element\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Remove Element\\Program.cs",
+              "RelativeToolTip": "Remove Element\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:52:44.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Merge Sorted Array\\Program.cs",
+              "RelativeDocumentMoniker": "Merge Sorted Array\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Merge Sorted Array\\Program.cs",
+              "RelativeToolTip": "Merge Sorted Array\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:18:15.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Duplicate Zeros\\Program.cs",
+              "RelativeDocumentMoniker": "Duplicate Zeros\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Duplicate Zeros\\Program.cs",
+              "RelativeToolTip": "Duplicate Zeros\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:15:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Squares of a Sorted Array\\Program.cs",
+              "RelativeDocumentMoniker": "Squares of a Sorted Array\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Squares of a Sorted Array\\Program.cs",
+              "RelativeToolTip": "Squares of a Sorted Array\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:02:49.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\FindNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "FindNumbers\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\FindNumbers\\Program.cs",
+              "RelativeToolTip": "FindNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:42:20.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\FindMaxConsecutiveOnes\\Program.cs",
+              "RelativeDocumentMoniker": "FindMaxConsecutiveOnes\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\FindMaxConsecutiveOnes\\Program.cs",
+              "RelativeToolTip": "FindMaxConsecutiveOnes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:13:16.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Ransome Note\\Program.cs",
+              "RelativeDocumentMoniker": "Ransome Note\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\00-My Problem Solving\\Problem_Solving\\02-LeetCode\\Ransome Note\\Program.cs",
+              "RelativeToolTip": "Ransome Note\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:57:48.053Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1073,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
