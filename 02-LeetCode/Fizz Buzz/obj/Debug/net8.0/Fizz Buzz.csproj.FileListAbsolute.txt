@@ -12,18 +12,3 @@ O:\Software_Courses\ProblemSolving\patch6\Fizz Buzz\obj\Debug\net8.0\refint\Fizz
 O:\Software_Courses\ProblemSolving\patch6\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.pdb
 O:\Software_Courses\ProblemSolving\patch6\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.genruntimeconfig.cache
 O:\Software_Courses\ProblemSolving\patch6\Fizz Buzz\obj\Debug\net8.0\ref\Fizz Buzz.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\bin\Debug\net8.0\Fizz Buzz.exe
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\bin\Debug\net8.0\Fizz Buzz.deps.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\bin\Debug\net8.0\Fizz Buzz.runtimeconfig.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\bin\Debug\net8.0\Fizz Buzz.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\bin\Debug\net8.0\Fizz Buzz.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.GeneratedMSBuildEditorConfig.editorconfig
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.AssemblyInfoInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.AssemblyInfo.cs
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.csproj.CoreCompileInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.sourcelink.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\refint\Fizz Buzz.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\Fizz Buzz.genruntimeconfig.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Fizz Buzz\obj\Debug\net8.0\ref\Fizz Buzz.dll

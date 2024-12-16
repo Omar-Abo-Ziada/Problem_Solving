@@ -13,18 +13,3 @@ O:\Software_Courses\ProblemSolving\Problem-Solving\patch6\riches cutomer wealth\
 O:\Software_Courses\ProblemSolving\Problem-Solving\patch6\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.pdb
 O:\Software_Courses\ProblemSolving\Problem-Solving\patch6\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.genruntimeconfig.cache
 O:\Software_Courses\ProblemSolving\Problem-Solving\patch6\riches cutomer wealth\obj\Debug\net8.0\ref\riches cutomer wealth.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\bin\Debug\net8.0\riches cutomer wealth.exe
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\bin\Debug\net8.0\riches cutomer wealth.deps.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\bin\Debug\net8.0\riches cutomer wealth.runtimeconfig.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\bin\Debug\net8.0\riches cutomer wealth.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\bin\Debug\net8.0\riches cutomer wealth.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.GeneratedMSBuildEditorConfig.editorconfig
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.AssemblyInfoInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.AssemblyInfo.cs
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.csproj.CoreCompileInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.sourcelink.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\refint\riches cutomer wealth.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\riches cutomer wealth.genruntimeconfig.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\riches cutomer wealth\obj\Debug\net8.0\ref\riches cutomer wealth.dll

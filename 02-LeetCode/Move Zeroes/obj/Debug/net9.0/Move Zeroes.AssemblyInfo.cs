@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Move Zeroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81e4f7c2d94b0716c170b3cd8fe5c0d0b0478b43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb695d620eb6cc04823a19516ca3588fa9274dd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Move Zeroes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Move Zeroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

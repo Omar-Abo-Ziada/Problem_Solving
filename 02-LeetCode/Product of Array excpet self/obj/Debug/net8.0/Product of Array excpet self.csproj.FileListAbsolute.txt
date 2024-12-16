@@ -27,18 +27,3 @@ O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpe
 O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.pdb
 O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.genruntimeconfig.cache
 O:\Software_Courses\ProblemSolving\Problem-Solving\patch4\Product of Array excpet self\obj\Debug\net8.0\ref\Product of Array excpet self.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.exe
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.deps.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.runtimeconfig.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\bin\Debug\net8.0\Product of Array excpet self.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.GeneratedMSBuildEditorConfig.editorconfig
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.AssemblyInfoInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.AssemblyInfo.cs
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.csproj.CoreCompileInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.sourcelink.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\refint\Product of Array excpet self.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\Product of Array excpet self.genruntimeconfig.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Product of Array excpet self\obj\Debug\net8.0\ref\Product of Array excpet self.dll

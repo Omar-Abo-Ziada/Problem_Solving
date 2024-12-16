@@ -12,18 +12,3 @@ O:\Software_Courses\ProblemSolving\Day 4\Contains duplicate\obj\Debug\net8.0\ref
 O:\Software_Courses\ProblemSolving\Day 4\Contains duplicate\obj\Debug\net8.0\Contains duplicate.pdb
 O:\Software_Courses\ProblemSolving\Day 4\Contains duplicate\obj\Debug\net8.0\Contains duplicate.genruntimeconfig.cache
 O:\Software_Courses\ProblemSolving\Day 4\Contains duplicate\obj\Debug\net8.0\ref\Contains duplicate.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\bin\Debug\net8.0\Contains duplicate.exe
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\bin\Debug\net8.0\Contains duplicate.deps.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\bin\Debug\net8.0\Contains duplicate.runtimeconfig.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\bin\Debug\net8.0\Contains duplicate.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\bin\Debug\net8.0\Contains duplicate.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.GeneratedMSBuildEditorConfig.editorconfig
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.AssemblyInfoInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.AssemblyInfo.cs
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.csproj.CoreCompileInputs.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.sourcelink.json
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\refint\Contains duplicate.dll
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.pdb
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\Contains duplicate.genruntimeconfig.cache
-D:\Software_Courses\00-My Problem Solving\Problem_Solving\02-LeetCode\Contains duplicate\obj\Debug\net8.0\ref\Contains duplicate.dll
