@@ -1,50 +1,63 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Ignore build outputs
+bin/
+obj/
 
-/02-LeetCode/.vs/LeetCode/FileContentIndex/17d8f35b-1a38-4fb3-a6a6-419f71df3d49.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/1ba490fc-8ef3-4732-a856-f099667a83a3.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/3dffc0c3-f772-4839-8c36-791667043488.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/e173043b-790a-4fa0-aef0-de2593e296ec.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/e3975f22-17b4-4165-a0ff-2a0978daaeda.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/eadfc5b4-2384-4815-bfd0-57c18454428d.vsidx
-/02-LeetCode/.vs/LeetCode/v17/.suo
-/02-LeetCode/.vs/LeetCode/v17/DocumentLayout.json
-/02-LeetCode/.vs/LeetCode/DesignTimeBuild/.dtbcache.v2
-/02-LeetCode/.vs/LeetCode/FileContentIndex/179c8b9e-ede4-4fb0-b662-dbf16bb7df9d.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/1a4a7017-7605-428e-aad0-e6052a309a76.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/5c986c75-83dc-4d50-8cd7-140f0f67a3c9.vsidx
-/.gitignore
-/02-LeetCode/.vs/LeetCode/FileContentIndex/1a4a7017-7605-428e-aad0-e6052a309a76.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/1a4a7017-7605-428e-aad0-e6052a309a76.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/c1b9763c-6b43-4ca5-9c59-3855f5aa17e2.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/e6298398-06e2-43f1-8e90-259280e65651.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/9c695375-bb97-406e-aa7f-4b0b1f2880d5.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/21801101-c46f-4589-b21b-9e6bfc532cef.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/680e8915-2e47-41f8-8aa7-da4bab7817f4.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/df635bc2-bdc0-4816-900a-5779e4ba570e.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/d83c3a0f-d018-4f03-8287-cbce5cec1859.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/e05a75d4-7f90-43ac-a516-e4895b2b4850.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/b24e7027-98bb-4d6f-a1d1-a0f647d6e0b8.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/bad51c97-be3a-41a2-a80f-3c633428f8f8.vsidx
-/02-LeetCode/.vs/LeetCode/v17/.futdcache.v2
-/02-LeetCode/.vs/ProjectEvaluation/leetcode.metadata.v7.bin
-/02-LeetCode/.vs/ProjectEvaluation/leetcode.projects.v7.bin
-/02-LeetCode/.vs/LeetCode/FileContentIndex/1ef76bf0-85d6-410d-bb80-0226c4a7dab5.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/4cb1d293-808d-4422-974c-c181cf5df89a.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/70f703a5-777e-4ae3-b61c-3a9fa56cfbfb.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/0f49b1e8-f276-46d8-b404-8ae491b35ed0.vsidx
-/02-LeetCode/.vs/LeetCode/FileContentIndex/676b6cd2-2827-4ea0-bf76-5f91b7c4a73c.vsidx
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore Visual Studio working files
+.vs/
+.vscode/
+*.vscode/
+*.cache
+*.log
+
+# Ignore project-specific debug and runtime files
+*.pdb
+*.exe
+*.dll
+*.db
+*.testhost.*
+*.deps.json
+*.runtimeconfig.json
+
+# Ignore NuGet packages
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+*.nuget.cache
+*.nuget.g.props
+*.nuget.g.targets
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.idb
+*.pidb
+*.tlog
+
+# Ignore generated files
+Generated/           # If you have a folder for auto-generated files
+*.generated.*
+
+# Ignore design-time build artifacts
+*.dtbcache.v2
+
+# Ignore ReSharper files
+_ReSharper.Caches/
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore TestResults folders
+TestResults/
+
+# Ignore specific paths (e.g., your LeetCode subfolder outputs)
+02-LeetCode/**/*.vsidx
+02-LeetCode/**/bin/
+02-LeetCode/**/obj/
+
+# Ignore any files that match these patterns anywhere in the repo
 *.vsidx
-/02-LeetCode/Valid Mountain Array/bin/Debug/net8.0/Valid Mountain Array.deps.json
-/02-LeetCode/Valid Mountain Array/bin/Debug/net8.0/Valid Mountain Array.dll
-/02-LeetCode/Valid Mountain Array/bin/Debug/net8.0/Valid Mountain Array.exe
-/02-LeetCode/Valid Mountain Array/bin/Debug/net8.0/Valid Mountain Array.pdb
-/02-LeetCode/Valid Mountain Array/bin/Debug/net8.0/Valid Mountain Array.runtimeconfig.json
-/02-LeetCode/Valid Mountain Array/obj/project.assets.json
-/02-LeetCode/Valid Mountain Array/obj/project.nuget.cache
-/02-LeetCode/Valid Mountain Array/obj/Valid Mountain Array.csproj.nuget.dgspec.json
-/02-LeetCode/Valid Mountain Array/obj/Valid Mountain Array.csproj.nuget.g.props
-/02-LeetCode/Valid Mountain Array/obj/Valid Mountain Array.csproj.nuget.g.targets
-/02-LeetCode/Valid Mountain Array/obj/Debug/net8.0/ref/Valid Mountain Array.dll
-/02-LeetCode/Valid Mountain Array/obj/Debug/net8.0/refint/Valid Mountain Array.dll
