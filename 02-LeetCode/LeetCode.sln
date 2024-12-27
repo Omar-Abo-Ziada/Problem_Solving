@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Maximum Number", "Thi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Numbers Disappeared in an Array", "Find All Numbers Disappeared in an Array\Find All Numbers Disappeared in an Array.csproj", "{042601D7-D2C2-4144-876C-4E78D4ED7A1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squares of a Sorted Array Modified", "Squares of a Sorted Array Modified\Squares of a Sorted Array Modified.csproj", "{21CEED81-B151-45C6-9C97-8882E29A05DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,18 @@ Global
 		{042601D7-D2C2-4144-876C-4E78D4ED7A1F}.Release|x64.Build.0 = Release|Any CPU
 		{042601D7-D2C2-4144-876C-4E78D4ED7A1F}.Release|x86.ActiveCfg = Release|Any CPU
 		{042601D7-D2C2-4144-876C-4E78D4ED7A1F}.Release|x86.Build.0 = Release|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Debug|x64.Build.0 = Debug|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Debug|x86.Build.0 = Debug|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Release|x64.ActiveCfg = Release|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Release|x64.Build.0 = Release|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Release|x86.ActiveCfg = Release|Any CPU
+		{21CEED81-B151-45C6-9C97-8882E29A05DD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
