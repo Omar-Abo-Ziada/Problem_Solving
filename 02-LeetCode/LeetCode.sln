@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squares of a Sorted Array M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Pivot Index", "Find Pivot Index\Find Pivot Index.csproj", "{91263356-AA4E-4D61-87A7-D9A2E1EE85F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Number At Least Twice of Others", "Largest Number At Least Twice of Others\Largest Number At Least Twice of Others.csproj", "{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -433,6 +435,18 @@ Global
 		{91263356-AA4E-4D61-87A7-D9A2E1EE85F5}.Release|x64.Build.0 = Release|Any CPU
 		{91263356-AA4E-4D61-87A7-D9A2E1EE85F5}.Release|x86.ActiveCfg = Release|Any CPU
 		{91263356-AA4E-4D61-87A7-D9A2E1EE85F5}.Release|x86.Build.0 = Release|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Debug|x64.Build.0 = Debug|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Release|x64.ActiveCfg = Release|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Release|x64.Build.0 = Release|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC0CA552-2B5C-43AD-8A99-372A4CDB6596}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
