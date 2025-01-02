@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Number At Least Twi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus One", "Plus One\Plus One.csproj", "{BF49216D-CAFB-4D1D-BE1B-E5D5D26FD508}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Traverse", "Diagonal Traverse\Diagonal Traverse.csproj", "{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -461,6 +463,18 @@ Global
 		{BF49216D-CAFB-4D1D-BE1B-E5D5D26FD508}.Release|x64.Build.0 = Release|Any CPU
 		{BF49216D-CAFB-4D1D-BE1B-E5D5D26FD508}.Release|x86.ActiveCfg = Release|Any CPU
 		{BF49216D-CAFB-4D1D-BE1B-E5D5D26FD508}.Release|x86.Build.0 = Release|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Debug|x64.Build.0 = Debug|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Debug|x86.Build.0 = Debug|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Release|x64.ActiveCfg = Release|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Release|x64.Build.0 = Release|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Release|x86.ActiveCfg = Release|Any CPU
+		{71862AD9-9823-4C09-9D50-E6D14CB7EAAB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
