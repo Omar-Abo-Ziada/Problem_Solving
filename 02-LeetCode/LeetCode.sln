@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Traverse", "Diagon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral Matrix", "Spiral Matrix\Spiral Matrix.csproj", "{C1390DAB-98DA-4387-AD41-59217147BD07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal Triangle", "Pascal Triangle\Pascal Triangle.csproj", "{0FA32E76-E6F8-449F-B430-5CCF195FECC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +491,18 @@ Global
 		{C1390DAB-98DA-4387-AD41-59217147BD07}.Release|x64.Build.0 = Release|Any CPU
 		{C1390DAB-98DA-4387-AD41-59217147BD07}.Release|x86.ActiveCfg = Release|Any CPU
 		{C1390DAB-98DA-4387-AD41-59217147BD07}.Release|x86.Build.0 = Release|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Debug|x64.Build.0 = Debug|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Debug|x86.Build.0 = Debug|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Release|x64.ActiveCfg = Release|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Release|x64.Build.0 = Release|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Release|x86.ActiveCfg = Release|Any CPU
+		{0FA32E76-E6F8-449F-B430-5CCF195FECC8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
