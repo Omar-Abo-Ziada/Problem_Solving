@@ -45,8 +45,8 @@ internal class Program
         char[] haystackArray = haystack.ToCharArray();
         char[] needleArray = needle.ToCharArray();
 
-        if (haystack is null || haystack == string.Empty ||
-            needle is null || needle == string.Empty ||
+        if (string.IsNullOrEmpty(haystack) ||
+            string.IsNullOrEmpty(needle) ||
             haystack.Length < needle.Length)
             return -1;
 
