@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement strStr", "Impleme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Prefix", "Longest Common Prefix\Longest Common Prefix.csproj", "{E376AA42-2A69-41F7-9B51-D0C57A360257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse String\Reverse String.csproj", "{FD619716-0372-4E98-AB6E-3FF1229BB23C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -545,6 +547,18 @@ Global
 		{E376AA42-2A69-41F7-9B51-D0C57A360257}.Release|x64.Build.0 = Release|Any CPU
 		{E376AA42-2A69-41F7-9B51-D0C57A360257}.Release|x86.ActiveCfg = Release|Any CPU
 		{E376AA42-2A69-41F7-9B51-D0C57A360257}.Release|x86.Build.0 = Release|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Debug|x64.Build.0 = Debug|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Debug|x86.Build.0 = Debug|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|x64.ActiveCfg = Release|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|x64.Build.0 = Release|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|x86.ActiveCfg = Release|Any CPU
+		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
