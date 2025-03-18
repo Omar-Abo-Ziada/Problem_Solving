@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Prefix", "Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse String\Reverse String.csproj", "{FD619716-0372-4E98-AB6E-3FF1229BB23C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum II - Input array is sorted", "Two Sum II - Input array is sorted\Two Sum II - Input array is sorted.csproj", "{86D7D824-281C-469C-B2D1-BAB9D65912CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -559,6 +561,18 @@ Global
 		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|x64.Build.0 = Release|Any CPU
 		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD619716-0372-4E98-AB6E-3FF1229BB23C}.Release|x86.Build.0 = Release|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Debug|x64.Build.0 = Debug|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Debug|x86.Build.0 = Debug|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|x64.ActiveCfg = Release|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|x64.Build.0 = Release|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|x86.ActiveCfg = Release|Any CPU
+		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
