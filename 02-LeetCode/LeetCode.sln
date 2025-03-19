@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum II - Input array is sorted", "Two Sum II - Input array is sorted\Two Sum II - Input array is sorted.csproj", "{86D7D824-281C-469C-B2D1-BAB9D65912CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Element New", "Remove Element New\Remove Element New.csproj", "{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -573,6 +575,18 @@ Global
 		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|x64.Build.0 = Release|Any CPU
 		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|x86.ActiveCfg = Release|Any CPU
 		{86D7D824-281C-469C-B2D1-BAB9D65912CD}.Release|x86.Build.0 = Release|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Debug|x64.Build.0 = Debug|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Debug|x86.Build.0 = Debug|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Release|x64.ActiveCfg = Release|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Release|x64.Build.0 = Release|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C2A1B4F-3901-46AB-B7A1-0A6B52905A74}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
