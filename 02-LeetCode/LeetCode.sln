@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate Array", "Rotate Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal's Triangle II", "Pascal's Triangle II\Pascal's Triangle II.csproj", "{DB2F1141-EC10-4AC3-92FE-C892484D0297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Words in a String", "Reverse Words in a String\Reverse Words in a String.csproj", "{D0129980-C21E-4929-BCB6-D4F9115ABE3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -643,6 +645,18 @@ Global
 		{DB2F1141-EC10-4AC3-92FE-C892484D0297}.Release|x64.Build.0 = Release|Any CPU
 		{DB2F1141-EC10-4AC3-92FE-C892484D0297}.Release|x86.ActiveCfg = Release|Any CPU
 		{DB2F1141-EC10-4AC3-92FE-C892484D0297}.Release|x86.Build.0 = Release|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Debug|x64.Build.0 = Debug|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Debug|x86.Build.0 = Debug|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Release|x64.ActiveCfg = Release|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Release|x64.Build.0 = Release|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Release|x86.ActiveCfg = Release|Any CPU
+		{D0129980-C21E-4929-BCB6-D4F9115ABE3C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
