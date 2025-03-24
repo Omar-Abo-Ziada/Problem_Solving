@@ -48,7 +48,7 @@ internal class Program
         for (int i = 0; i < numRows; i++)
         {
             // Or I can use init all with ones and os does not need to add 1 at first and last index
-            List<int> row = new(Enumerable.Repeat(1, i+1));
+            List<int> row = new(Enumerable.Repeat(1, i + 1));
 
             // If row has more than 2 elements => Add Sum of the previous row's elements (before and next to current index)
             if (row.Count > 2)
