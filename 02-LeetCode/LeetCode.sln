@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Linked List", "Design Linked List\Design Linked List.csproj", "{D832F045-387B-4EF4-B650-C868C2D12FDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List Cycle", "Linked List Cycle\Linked List Cycle.csproj", "{A4007AC2-A3B9-4128-AA5C-3078364F4A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -699,6 +701,18 @@ Global
 		{D832F045-387B-4EF4-B650-C868C2D12FDC}.Release|x64.Build.0 = Release|Any CPU
 		{D832F045-387B-4EF4-B650-C868C2D12FDC}.Release|x86.ActiveCfg = Release|Any CPU
 		{D832F045-387B-4EF4-B650-C868C2D12FDC}.Release|x86.Build.0 = Release|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Debug|x64.Build.0 = Debug|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Debug|x86.Build.0 = Debug|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Release|x64.ActiveCfg = Release|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Release|x64.Build.0 = Release|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Release|x86.ActiveCfg = Release|Any CPU
+		{A4007AC2-A3B9-4128-AA5C-3078364F4A60}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
