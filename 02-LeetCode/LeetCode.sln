@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List Cycle", "Linked
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List Cycle II", "Linked List Cycle II\Linked List Cycle II.csproj", "{C9BEF8F8-1A36-4425-81DD-CEB63810C59C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Linked Lists", "Intersection of Two Linked Lists\Intersection of Two Linked Lists.csproj", "{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -727,6 +729,18 @@ Global
 		{C9BEF8F8-1A36-4425-81DD-CEB63810C59C}.Release|x64.Build.0 = Release|Any CPU
 		{C9BEF8F8-1A36-4425-81DD-CEB63810C59C}.Release|x86.ActiveCfg = Release|Any CPU
 		{C9BEF8F8-1A36-4425-81DD-CEB63810C59C}.Release|x86.Build.0 = Release|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Debug|x64.Build.0 = Debug|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Debug|x86.Build.0 = Debug|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Release|x64.ActiveCfg = Release|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Release|x64.Build.0 = Release|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Release|x86.ActiveCfg = Release|Any CPU
+		{37E5090A-5A34-4BF0-B73A-BB4B20A0286C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
