@@ -48,31 +48,48 @@
         //    return null;
         //}
 
+        //public ListNode GetIntersectionNode(ListNode headA, ListNode headB)
+        //{
+        //    if (headA == null || headB == null)
+        //        return null;
+
+        //    var visited = new HashSet<ListNode>();
+
+        //    var currentA = headA;
+        //    while (currentA != null)
+        //    {
+        //        visited.Add(currentA);
+        //        currentA = currentA.next;
+        //    }
+
+        //    var currentB = headB;
+        //    while (currentB != null)
+        //    {
+        //        if (visited.Contains(currentB))
+        //        {
+        //            return currentB;
+        //        }
+        //        currentB = currentB.next;
+        //    }
+
+        //    return null;
+        //}
+
         public ListNode GetIntersectionNode(ListNode headA, ListNode headB)
         {
             if (headA == null || headB == null)
                 return null;
 
-            var visited = new HashSet<ListNode>();
+            ListNode a = headA;
+            ListNode b = headB;
 
-            var currentA = headA;
-            while (currentA != null)
+            while (a != b)
             {
-                visited.Add(currentA);
-                currentA = currentA.next;
+                a = (a is null) ? headB : a.next;
+                b = (b is null) ? headA : b.next;
             }
 
-            var currentB = headB;
-            while (currentB != null)
-            {
-                if (visited.Contains(currentB))
-                {
-                    return currentB;
-                }
-                currentB = currentB.next;
-            }
-
-            return null;
+            return a;
         }
     }
 }
