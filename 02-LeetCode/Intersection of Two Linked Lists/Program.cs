@@ -14,35 +14,62 @@
         {
         }
 
+        //public ListNode GetIntersectionNode(ListNode headA, ListNode headB)
+        //{
+        //    if (headA == null || headB == null)
+        //        return null;
+
+        //    var dictionary = new Dictionary<ListNode, int>();
+
+        //    var current = headA;
+        //    bool isAdded = false;
+        //    while (current != null)
+        //    {
+        //        isAdded = dictionary.TryAdd(current, current.val);
+        //        if (!isAdded)
+        //        {
+        //            return current;
+        //        }
+        //        current = current.next;
+        //    }
+
+        //    isAdded = false;
+        //    current = headB;
+        //    while (current != null)
+        //    {
+        //        isAdded = dictionary.TryAdd(current, current.val);
+        //        if (!isAdded)
+        //        {
+        //            return current;
+        //        }
+        //        current = current.next;
+        //    }
+
+        //    return null;
+        //}
+
         public ListNode GetIntersectionNode(ListNode headA, ListNode headB)
         {
             if (headA == null || headB == null)
                 return null;
 
-            var dictionary = new Dictionary<ListNode, int>();
+            var visited = new HashSet<ListNode>();
 
-            var current = headA;
-            bool isAdded = false;
-            while (current != null)
+            var currentA = headA;
+            while (currentA != null)
             {
-                isAdded = dictionary.TryAdd(current, current.val);
-                if (!isAdded)
-                {
-                    return current;
-                }
-                current = current.next;
+                visited.Add(currentA);
+                currentA = currentA.next;
             }
 
-            isAdded = false;
-            current = headB;
-            while (current != null)
+            var currentB = headB;
+            while (currentB != null)
             {
-                isAdded = dictionary.TryAdd(current, current.val);
-                if (!isAdded)
+                if (visited.Contains(currentB))
                 {
-                    return current;
+                    return currentB;
                 }
-                current = current.next;
+                currentB = currentB.next;
             }
 
             return null;
