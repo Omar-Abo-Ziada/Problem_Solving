@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Linked 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Nth Node From End of List", "Remove Nth Node From End of List\Remove Nth Node From End of List.csproj", "{5314C793-35F9-469E-AF16-FB3D96289C3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Linked List", "Reverse Linked List\Reverse Linked List.csproj", "{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -755,6 +757,18 @@ Global
 		{5314C793-35F9-469E-AF16-FB3D96289C3E}.Release|x64.Build.0 = Release|Any CPU
 		{5314C793-35F9-469E-AF16-FB3D96289C3E}.Release|x86.ActiveCfg = Release|Any CPU
 		{5314C793-35F9-469E-AF16-FB3D96289C3E}.Release|x86.Build.0 = Release|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Debug|x64.Build.0 = Debug|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Debug|x86.Build.0 = Debug|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Release|x64.ActiveCfg = Release|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Release|x64.Build.0 = Release|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Release|x86.ActiveCfg = Release|Any CPU
+		{D6D7F116-C3E8-47E9-838C-BCB9E1774A39}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
