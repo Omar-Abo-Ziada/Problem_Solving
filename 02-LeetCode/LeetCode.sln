@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Linked List Elements
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Even Linked List", "Odd Even Linked List\Odd Even Linked List.csproj", "{AFD6EF50-034B-4B90-A40A-19ED38C1F08B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Linked List", "Palindrome Linked List\Palindrome Linked List.csproj", "{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -797,6 +799,18 @@ Global
 		{AFD6EF50-034B-4B90-A40A-19ED38C1F08B}.Release|x64.Build.0 = Release|Any CPU
 		{AFD6EF50-034B-4B90-A40A-19ED38C1F08B}.Release|x86.ActiveCfg = Release|Any CPU
 		{AFD6EF50-034B-4B90-A40A-19ED38C1F08B}.Release|x86.Build.0 = Release|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Debug|x64.Build.0 = Debug|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Debug|x86.Build.0 = Debug|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Release|x64.ActiveCfg = Release|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Release|x64.Build.0 = Release|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Release|x86.ActiveCfg = Release|Any CPU
+		{F5EB77D7-6C2B-4192-B151-8DA0CF7B26B0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
