@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Linked List", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Two Sorted Lists", "Merge Two Sorted Lists\Merge Two Sorted Lists.csproj", "{AC55586D-1BF7-40F8-BE89-5D06679A805B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -825,6 +827,18 @@ Global
 		{AC55586D-1BF7-40F8-BE89-5D06679A805B}.Release|x64.Build.0 = Release|Any CPU
 		{AC55586D-1BF7-40F8-BE89-5D06679A805B}.Release|x86.ActiveCfg = Release|Any CPU
 		{AC55586D-1BF7-40F8-BE89-5D06679A805B}.Release|x86.Build.0 = Release|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Debug|x64.Build.0 = Debug|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Debug|x86.Build.0 = Debug|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Release|x64.ActiveCfg = Release|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Release|x64.Build.0 = Release|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{B3080DC1-5D42-4FDE-963B-A96B3CF77BC7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
