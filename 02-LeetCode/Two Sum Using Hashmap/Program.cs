@@ -3,7 +3,7 @@
 internal class Program
 {
 
-    public static int[] TwoSum(int[] nums, int target)
+    public  static int[] TwoSum(int[] nums, int target)
     {
         if (nums is null || nums.Length == 0) return [];
 
@@ -11,25 +11,21 @@ internal class Program
 
         for (int i = 0; i < nums.Length; i++)
         {
-
-            // the value needed to complete the current I to target
             int remain = target - nums[i];
 
-            // store the value needed to complete this index to target
-            numsDictionary.TryAdd(remain, i);
-        }
-
-        for (int i = 0; i < nums.Length; i++)
-        {
-            if (numsDictionary.ContainsKey(nums[i]) && numsDictionary[nums[i]] != i)
+            if (numsDictionary.ContainsKey(remain))
             {
-                int completeIndex = numsDictionary[nums[i]];
-                return [i, completeIndex];
+                return [numsDictionary[remain], i];
             }
+
+            // Store the current number with its index
+            if (!numsDictionary.ContainsKey(nums[i]))
+                numsDictionary.Add(nums[i], i);
         }
 
         return [];
     }
+
 
 
     static void Main(string[] args)
