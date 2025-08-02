@@ -1,16 +1,8 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Diagnostics;
-using System.Runtime.Intrinsics.X86;
-using System.Security.Cryptography;
-using System.Numerics;
-using System.Globalization;
-using System.Diagnostics.CodeAnalysis;
-
-namespace Two_Sum
+﻿namespace Two_Sum
 {
     internal class Program
     {
-        public static int[] TwoSum(int[] nums, int target)
+        public static int[]? TwoSum(int[] nums, int target)
         {
             int[] result = new int[2];
 
@@ -68,7 +60,7 @@ namespace Two_Sum
 
             int[] nums1 = [2, 7, 11, 15];
             int target1 = 9; 
-            int[] result1 = new int[2];
+            int[]? result1 = new int[2];
 
             result1 = TwoSum(nums1, target1);
 
@@ -77,7 +69,7 @@ namespace Two_Sum
 
             int[] nums2 = [3,2,4] ;
             int target2 = 6 ;
-            int[] result2 = new int[2] ;
+            int[]? result2 = new int[2] ;
 
             result2 = TwoSum(nums2, target2);
 
@@ -86,7 +78,7 @@ namespace Two_Sum
 
             int[] nums3 = [3, 3];
             int target3 = 6;
-            int[] result3 = new int[2];
+            int[]? result3 = new int[2];
 
             result3 = TwoSum(nums3, target3);
 
