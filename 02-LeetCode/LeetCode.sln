@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Index Sum of Two Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Unique Character in a String", "First Unique Character in a String\First Unique Character in a String.csproj", "{4AE1D476-D2A4-4908-B272-E42256657D0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Arrays II", "Intersection of Two Arrays II\Intersection of Two Arrays II.csproj", "{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1021,6 +1023,18 @@ Global
 		{4AE1D476-D2A4-4908-B272-E42256657D0B}.Release|x64.Build.0 = Release|Any CPU
 		{4AE1D476-D2A4-4908-B272-E42256657D0B}.Release|x86.ActiveCfg = Release|Any CPU
 		{4AE1D476-D2A4-4908-B272-E42256657D0B}.Release|x86.Build.0 = Release|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Debug|x64.Build.0 = Debug|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Debug|x86.Build.0 = Debug|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Release|x64.ActiveCfg = Release|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Release|x64.Build.0 = Release|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Release|x86.ActiveCfg = Release|Any CPU
+		{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
