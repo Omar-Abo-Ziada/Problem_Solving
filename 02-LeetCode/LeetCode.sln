@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34511.84
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Best time to buy and sell stock", "Best time to buy and sell stock\Best time to buy and sell stock.csproj", "{7A6BFE30-59C7-43E9-86C2-CA6C8FCE8D18}"
 EndProject
@@ -150,6 +150,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Arrays II", "Intersection of Two Arrays II\Intersection of Two Arrays II.csproj", "{9C958DB8-45D2-45B6-A443-BFC0CF289F1B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contains Duplicate II", "Contains Duplicate II\Contains Duplicate II.csproj", "{9A988CAA-06F4-42B1-A6CA-C2D80B4B17FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Anagrams", "Group Anagrams\Group Anagrams.csproj", "{7C272673-0BB3-4374-8C30-C2BC04BE4F72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1049,6 +1051,18 @@ Global
 		{9A988CAA-06F4-42B1-A6CA-C2D80B4B17FD}.Release|x64.Build.0 = Release|Any CPU
 		{9A988CAA-06F4-42B1-A6CA-C2D80B4B17FD}.Release|x86.ActiveCfg = Release|Any CPU
 		{9A988CAA-06F4-42B1-A6CA-C2D80B4B17FD}.Release|x86.Build.0 = Release|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Debug|x64.Build.0 = Debug|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Debug|x86.Build.0 = Debug|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Release|x64.ActiveCfg = Release|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Release|x64.Build.0 = Release|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C272673-0BB3-4374-8C30-C2BC04BE4F72}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
